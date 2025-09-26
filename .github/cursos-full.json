@@ -1,0 +1,3830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3735065,
+          15.4702001
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Alta Verapaz, Cobán",
+        "departamento": "Alta Verapaz",
+        "municipio": "Cobán",
+        "direccion": "Alta Verapaz, Cobán",
+        "descripcion": "Los cursos que se encuentran disponibles en Alta Verapaz, Cobán son: Técnicas en Arte en Papel - FINALIZADO, Emprendimiento y Desarrollo Empresarial - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2014497,
+          15.5721191
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: Alta Verapaz, Carchá",
+        "departamento": "Alta Verapaz",
+        "municipio": "Carchá",
+        "direccion": "Alta Verapaz, Carchá",
+        "descripcion": "Los cursos que se encuentran disponibles en Alta Verapaz, Carchá son: Panadería básica - FINALIZADO, Panadería intermedia - FINALIZADO, Computación básica - ACTIVO, Inglés Básico - ACTIVO, Confeccionista de Prendas Básica - ACTIVO, Tejido en Telar de cintura - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4198186,
+          15.3397693
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Alta Verapaz, Santa Cruz Verapaz",
+        "departamento": "Alta Verapaz",
+        "municipio": "Santa Cruz Verapaz",
+        "direccion": "Alta Verapaz, Santa Cruz Verapaz",
+        "descripcion": "Los cursos que se encuentran disponibles en Alta Verapaz, Santa Cruz Verapaz son: Computación básica - ACTIVO, Inglés Básico - ACTIVO, Confeccionista de Prendas Básica - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2390014,
+          15.3832579
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Alta Verapaz, Chamelco",
+        "departamento": "Alta Verapaz",
+        "municipio": "Chamelco",
+        "direccion": "Alta Verapaz, Chamelco",
+        "descripcion": "Los cursos que se encuentran disponibles en Alta Verapaz, Chamelco son: Tejido en Telar de cintura - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3145505,
+          15.1021016
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: BAJA VERAPAZ, SALAMÁ",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "SALAMÁ",
+        "direccion": "BAJA VERAPAZ, SALAMÁ",
+        "descripcion": "Los cursos que se encuentran disponibles en BAJA VERAPAZ, SALAMÁ son: PANADERO - FINALIZADO, REPOSTERIA Y DULCES TIPICOS - FINALIZADO, REPOSTERIA Y DULCES TIPICOS - FINALIZADO, PANADERO - FINALIZADO, REPOSTERIA   - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2089138,
+          15.0482541
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: BAJA VERAPAZ, SAN JERONIMO",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "SAN JERONIMO",
+        "direccion": "BAJA VERAPAZ, SAN JERONIMO",
+        "descripcion": "Los cursos que se encuentran disponibles en BAJA VERAPAZ, SAN JERONIMO son: REPOSTERIA Y DULCES TIPICOS - FINALIZADO, PANADERO - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5206153,
+          15.1297828
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: BAJA VERAPAZ, RABINAL",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "RABINAL",
+        "direccion": "BAJA VERAPAZ, RABINAL",
+        "descripcion": "Los cursos que se encuentran disponibles en BAJA VERAPAZ, RABINAL son: REPOSTERIA - FINALIZADO, CESTERIA - FINALIZADO, CESTERIA - FINALIZADO, CESTERIA - FINALIZADO, CESTERIA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6889077,
+          15.1526505
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: BAJA VERAPAZ, CUBULCO",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "CUBULCO",
+        "direccion": "BAJA VERAPAZ, CUBULCO",
+        "descripcion": "Los cursos que se encuentran disponibles en BAJA VERAPAZ, CUBULCO son: CESTERIA - FINALIZADO, CESTERIA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4148468,
+          15.1399573
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: BAJA VERAPAZ, SAN MIGUEL CHICAJ",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "SAN MIGUEL CHICAJ",
+        "direccion": "BAJA VERAPAZ, SAN MIGUEL CHICAJ",
+        "descripcion": "Los cursos que se encuentran disponibles en BAJA VERAPAZ, SAN MIGUEL CHICAJ son: COCINA - FINALIZADO, BAR TENDER Y PREPARADO DE BOQUITAS - FINALIZADO, COCINA - FINALIZADO, REPOSTERIA   - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0859762,
+          14.8514688
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: EL PROGRESO, GUASTATOYA",
+        "departamento": "EL PROGRESO",
+        "municipio": "GUASTATOYA",
+        "direccion": "EL PROGRESO, GUASTATOYA",
+        "descripcion": "Los cursos que se encuentran disponibles en EL PROGRESO, GUASTATOYA son: Bolsas Artesanales - FINALIZADO, Creaciones Artesanales - ACTIVO, Manualidades Artesanales - FINALIZADO, Emprendimiento I - ACTIVO, Emprendimiento I - ACTIVO, Mundo de manualidades  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.991798,
+          15.0166373
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: EL PROGRESO, SAN AGUSTÍN ACASAGUASTLÁN",
+        "departamento": "EL PROGRESO",
+        "municipio": "SAN AGUSTÍN ACASAGUASTLÁN",
+        "direccion": "EL PROGRESO, SAN AGUSTÍN ACASAGUASTLÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en EL PROGRESO, SAN AGUSTÍN ACASAGUASTLÁN son: Cocina Básica II - FINALIZADO, Cocina Básica II - ACTIVO, Hechura de blancos con liston - ACTIVO, Bolsas Artesanales - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2734464,
+          14.7414535
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: EL PROGRESO, SAN ANTONIO LA PAZ",
+        "departamento": "EL PROGRESO",
+        "municipio": "SAN ANTONIO LA PAZ",
+        "direccion": "EL PROGRESO, SAN ANTONIO LA PAZ",
+        "descripcion": "Los cursos que se encuentran disponibles en EL PROGRESO, SAN ANTONIO LA PAZ son: Pastelería Básica  - FINALIZADO, Bordado Pica Pica - FINALIZADO, Bordado fantasia  - ACTIVO, Bordado Español - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "8 cursos en: Izabal, Morales ",
+        "departamento": "Izabal",
+        "municipio": "Morales ",
+        "direccion": "Izabal, Morales ",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales  son: Piñatas en 3D - FINALIZADO, Piñatas en 3D - FINALIZADO, Candy Bar y Aperitivos - FINALIZADO, Candy Bar y Aperitivos - FINALIZADO, Reposteria Básica - FINALIZADO, Piñateria de Alambre - FINALIZADO, Corte y Confección - FINALIZADO, Reposteria Básica - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7508045,
+          15.8269659
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Izabal, Área Río Dulce, Livingston",
+        "departamento": "Izabal",
+        "municipio": "Área Río Dulce, Livingston",
+        "direccion": "Izabal, Área Río Dulce, Livingston",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Área Río Dulce, Livingston son: Piñatas en 3D - FINALIZADO, Piñatas en 3D - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Morales, Barranca",
+        "departamento": "Izabal",
+        "municipio": "Morales, Barranca",
+        "direccion": "Izabal, Morales, Barranca",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales, Barranca son: Canasta con hilo plástico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Morales, Chiriquí",
+        "departamento": "Izabal",
+        "municipio": "Morales, Chiriquí",
+        "direccion": "Izabal, Morales, Chiriquí",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales, Chiriquí son: Canasta con hilo plástico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68612863,
+          15.55643337
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Cayuga la Lineas, Morlaes",
+        "departamento": "Izabal",
+        "municipio": "Cayuga la Lineas, Morlaes",
+        "direccion": "Izabal, Cayuga la Lineas, Morlaes",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Cayuga la Lineas, Morlaes son: Canasta con hilo plástico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69635003,
+          15.53214431
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Cruce de Cayuga, Morlaes",
+        "departamento": "Izabal",
+        "municipio": "Cruce de Cayuga, Morlaes",
+        "direccion": "Izabal, Cruce de Cayuga, Morlaes",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Cruce de Cayuga, Morlaes son: Canasta con hilo plástico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Morales, Riachuelo",
+        "departamento": "Izabal",
+        "municipio": "Morales, Riachuelo",
+        "direccion": "Izabal, Morales, Riachuelo",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales, Riachuelo son: Canasta con hilo plástico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5952506,
+          15.7275154
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: Izabal, Puerto Barrios",
+        "departamento": "Izabal",
+        "municipio": "Puerto Barrios",
+        "direccion": "Izabal, Puerto Barrios",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Puerto Barrios son: Repostería Avanada - FINALIZADO, Gastronomía Nacional - ACTIVO, Piñatas en 3D - FINALIZADO, Piñateria de Alambre - FINALIZADO, Corte y Confección - FINALIZADO, Cesteria Básica M1 - FINALIZADO, Creaciones de Bolas Hilo Plástico M1 - FINALIZADO, Creaciones de bolsas en Hilo Plástico M 2 - FINALIZADO, Aplicación de Pestañas pelo a pelo - FINALIZADO, Piñateria de Alambre - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7508045,
+          15.8269659
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Livingston",
+        "departamento": "Izabal",
+        "municipio": "Livingston",
+        "direccion": "Izabal, Livingston",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Livingston son: Gastronomiá Nacional - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5952506,
+          15.7275154
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Puerto Barios",
+        "departamento": "Izabal",
+        "municipio": "Puerto Barios",
+        "direccion": "Izabal, Puerto Barios",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Puerto Barios son: Corte y Confección - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.079702,
+          15.2964113
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Los Amates",
+        "departamento": "Izabal",
+        "municipio": "Los Amates",
+        "direccion": "Izabal, Los Amates",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Los Amates son: Emprendimiento + Bolsa de Hilo Plástico  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3725909,
+          15.4337735
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, El Estor",
+        "departamento": "Izabal",
+        "municipio": "El Estor",
+        "direccion": "Izabal, El Estor",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, El Estor son: Cesteria Módulo 1 y 2 - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Morales, Tenedores",
+        "departamento": "Izabal",
+        "municipio": "Morales, Tenedores",
+        "direccion": "Izabal, Morales, Tenedores",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales, Tenedores son: Uñas acrilicas nivel intermedio - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5873663,
+          15.6963634
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Izabal, Puerto Barrios, Santo Tomás de Castilla",
+        "departamento": "Izabal",
+        "municipio": "Puerto Barrios, Santo Tomás de Castilla",
+        "direccion": "Izabal, Puerto Barrios, Santo Tomás de Castilla",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Puerto Barrios, Santo Tomás de Castilla son: Uñas acrilicas Nivel Básico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5952506,
+          15.7275154
+        ]
+      },
+      "properties": {
+        "titulo": "7 cursos en: Izabal, Puerto Bariios",
+        "departamento": "Izabal",
+        "municipio": "Puerto Bariios",
+        "direccion": "Izabal, Puerto Bariios",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Puerto Bariios son: Uñas acrilicas nivel Básico - FINALIZADO, Reposteria Inicial - FINALIZADO, Reposteria Intermedio - FINALIZADO, pinatas en 3d - ACTIVO, velas aromaticas  - ACTIVO, velas aromaticas  - ACTIVO, pinatas en 3d - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426325,
+          15.47116
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Izabal, Morales",
+        "departamento": "Izabal",
+        "municipio": "Morales",
+        "direccion": "Izabal, Morales",
+        "descripcion": "Los cursos que se encuentran disponibles en Izabal, Morales son: Piñateria de Alambre - ACTIVO, Piñateria de Alambre - ACTIVO, Reposteria Básica - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5459173,
+          14.8005709
+        ]
+      },
+      "properties": {
+        "titulo": "16 cursos en: Chiquimula , Chiquimula ",
+        "departamento": "Chiquimula ",
+        "municipio": "Chiquimula ",
+        "direccion": "Chiquimula , Chiquimula ",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Chiquimula  son: Piñatería básica - FINALIZADO, Piñatería básica - FINALIZADO, Postres y Pie - FINALIZADO, Repostería básica - FINALIZADO, Pastele especiales - FINALIZADO, Uñas acrilicas - FINALIZADO, uñas acrilicas - FINALIZADO, corte de cabello para dama - FINALIZADO, colorimetria - FINALIZADO, uñas esculturales - FINALIZADO, Técnico Operador en Computación Inicial con Orientación en Emprendimiento - ACTIVO,  - FINALIZADO,  - FINALIZADO,  - FINALIZADO,  - FINALIZADO,  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2552563,
+          14.6308869
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Chiquimula , Esquipulas ",
+        "departamento": "Chiquimula ",
+        "municipio": "Esquipulas ",
+        "direccion": "Chiquimula , Esquipulas ",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Esquipulas  son: Decoración de pasteles especiales  - FINALIZADO, Cocina básica  - FINALIZADO, Aplicación de uñas acrílicas  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4477933,
+          14.6114874
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Chiquimula , Quezaltepeque ",
+        "departamento": "Chiquimula ",
+        "municipio": "Quezaltepeque ",
+        "direccion": "Chiquimula , Quezaltepeque ",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Quezaltepeque  son: Aplicación de uñas acrílicas  - FINALIZADO, Repostería I - FINALIZADO, Decoración de uñas  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5980801,
+          14.7139853
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Chiquimula , San José la Arada",
+        "departamento": "Chiquimula ",
+        "municipio": "San José la Arada",
+        "direccion": "Chiquimula , San José la Arada",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , San José la Arada son: Velas aromáticas - FINALIZADO, Piñatería  - FINALIZADO, Repostería - FINALIZADO, Maquillaje - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4105439,
+          14.8146726
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: Chiquimula , Jocotán ",
+        "departamento": "Chiquimula ",
+        "municipio": "Jocotán ",
+        "direccion": "Chiquimula , Jocotán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Jocotán  son: Cocina básica  - FINALIZADO, Técnico Operador en Computación Inicial con Orientación en Emprendimiento  - ACTIVO, Técnico Operador en Computación Inicial con Orientación en Emprendimiento  - ACTIVO, Técnico Operador en Computación Inicial con Orientación en Emprendimiento  - ACTIVO, Microsoft Word  - FINALIZADO, BORDADO ESPAÑOL - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6150956,
+          14.5788174
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Chiquimula , Ipala",
+        "departamento": "Chiquimula ",
+        "municipio": "Ipala",
+        "direccion": "Chiquimula , Ipala",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Ipala son: postres y pie - FINALIZADO, Postres para candy bar - FINALIZADO, Repostería III - FINALIZADO, Piñateria Básica - FINALIZADO, Cocina Regional - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2961592,
+          14.8660117
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Chiquimula , Camotán ",
+        "departamento": "Chiquimula ",
+        "municipio": "Camotán ",
+        "direccion": "Chiquimula , Camotán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Chiquimula , Camotán  son: Técnico Operador en Computación Inicial con Orientación en Emprendimiento - ACTIVO, Técnico Operador en Computación Intermedio con Orientación en Emprendimiento - ACTIVO, PRODUCTOR AGROPECUARIO CON ESPECIALIDAD EN ALIMENTACIÓN ESCOLAR - ACTIVO, BORDADO ESPAÑOL - FINALIZADO, FIESTAS TEMATÍCAS DE GLOBOS - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3154551,
+          15.1492931
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Zacapa , Gualán ",
+        "departamento": "Zacapa ",
+        "municipio": "Gualán ",
+        "direccion": "Zacapa , Gualán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Gualán  son: Corte y Confección  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6026468,
+          15.0904665
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa , Río Hondo ",
+        "departamento": "Zacapa ",
+        "municipio": "Río Hondo ",
+        "direccion": "Zacapa , Río Hondo ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Río Hondo  son: Modista  - ACTIVO, Corte y  Confección  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8058835,
+          15.00222
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Zacapa , Usumatlán ",
+        "departamento": "Zacapa ",
+        "municipio": "Usumatlán ",
+        "direccion": "Zacapa , Usumatlán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Usumatlán  son: Hechura de Blancos  - ACTIVO, Corte y Confección  - ACTIVO, COCINA  - ACTIVO, REPOSTERIA  - ACTIVO, EMPRENDIMIENTO 1 + COMPUTACIÓN - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5297411,
+          14.9707219
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa , Zacapa ",
+        "departamento": "Zacapa ",
+        "municipio": "Zacapa ",
+        "direccion": "Zacapa , Zacapa ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Zacapa  son: Corte y Confección  - ACTIVO, Modista  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7516375,
+          15.0594938
+        ]
+      },
+      "properties": {
+        "titulo": "18 cursos en: Zacapa , Teculután ",
+        "departamento": "Zacapa ",
+        "municipio": "Teculután ",
+        "direccion": "Zacapa , Teculután ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Teculután  son: Corte y Confección  - ACTIVO, Modista  - ACTIVO, COCINA  - ACTIVO, computación Básica  - ACTIVO, computación Básica  - ACTIVO, computación Básica  - ACTIVO, computación básica II - ACTIVO, computación básica  - ACTIVO, computación básica II  - ACTIVO, Windows e internet  - ACTIVO, computación básica  - ACTIVO, computación básica  - ACTIVO, computación básica II - ACTIVO, computación básica  - ACTIVO, computación básica II  - ACTIVO, computación básica  - ACTIVO, computación básica II  - ACTIVO, Windows e internet  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5297411,
+          14.9707219
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Zacapa, Zacapa",
+        "departamento": "Zacapa",
+        "municipio": "Zacapa",
+        "direccion": "Zacapa, Zacapa",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Zacapa son: Emprendimiento I + Guía Curricular de  Cultor (a) de Belleza - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6026468,
+          15.0904665
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa, Río Hondo",
+        "departamento": "Zacapa",
+        "municipio": "Río Hondo",
+        "direccion": "Zacapa, Río Hondo",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Río Hondo son: Emprendimiento I + Aromaterapia - ACTIVO, Emprendimiento I + Guía Curricular de  Cultor (a) de Belleza - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8058835,
+          15.00222
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa, Usumatlán",
+        "departamento": "Zacapa",
+        "municipio": "Usumatlán",
+        "direccion": "Zacapa, Usumatlán",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Usumatlán son: Emprendimiento I + Uñas Acrílicas - ACTIVO, Emprendimiento I + Manualidades en Rafía y Malla - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7516375,
+          15.0594938
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: Zacapa, Teculután",
+        "departamento": "Zacapa",
+        "municipio": "Teculután",
+        "direccion": "Zacapa, Teculután",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Teculután son: Emprendimiento I + Guía Curricular de  Cultor (a) de Belleza - ACTIVO, Uñas Acrílicas - FINALIZADO, Makeup Social y artistico - FINALIZADO, Estructura y perfeccionamiento en uñas acrílicas y esculpidas - FINALIZADO, Estructura y perfeccionamiento en uñas acrílicas y esculpidas - FINALIZADO, Makeup Social y artistico - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7153093,
+          14.9271343
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: ZACAPA , HUITE ",
+        "departamento": "ZACAPA ",
+        "municipio": "HUITE ",
+        "direccion": "ZACAPA , HUITE ",
+        "descripcion": "Los cursos que se encuentran disponibles en ZACAPA , HUITE  son: COCINA  - ACTIVO, COCINA  - ACTIVO, REPOSTERIA  - ACTIVO, computación básica  - ACTIVO, computación básica  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6098693,
+          14.9788616
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: ZACAPA , ESTANZUELA",
+        "departamento": "ZACAPA ",
+        "municipio": "ESTANZUELA",
+        "direccion": "ZACAPA , ESTANZUELA",
+        "descripcion": "Los cursos que se encuentran disponibles en ZACAPA , ESTANZUELA son: COCINA  - ACTIVO, REPOSTERIA  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3154551,
+          15.1492931
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Zacapa , Gualan ",
+        "departamento": "Zacapa ",
+        "municipio": "Gualan ",
+        "direccion": "Zacapa , Gualan ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Gualan  son: uñas Acrílicas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7153093,
+          14.9271343
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Huitė , Huitė ",
+        "departamento": "Huitė ",
+        "municipio": "Huitė ",
+        "direccion": "Huitė , Huitė ",
+        "descripcion": "Los cursos que se encuentran disponibles en Huitė , Huitė  son: computación Básica  - ACTIVO, computación Básica  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3154551,
+          15.1492931
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa, Gualán",
+        "departamento": "Zacapa",
+        "municipio": "Gualán",
+        "direccion": "Zacapa, Gualán",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Gualán son: Makeup Social y artistico - FINALIZADO, Estructura y perfeccionamiento en uñas acrílicas y esculpidas - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7153093,
+          14.9271343
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa, Huite",
+        "departamento": "Zacapa",
+        "municipio": "Huite",
+        "direccion": "Zacapa, Huite",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa, Huite son: Cultoras de Belleza  - ACTIVO, Uñas Acrílicas - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6098693,
+          14.9788616
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Zacapa , Estanzuela ",
+        "departamento": "Zacapa ",
+        "municipio": "Estanzuela ",
+        "direccion": "Zacapa , Estanzuela ",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , Estanzuela  son: EMPRENDIMIENTO 1 + CORTE Y CONFECCIÓN - FINALIZADO, EMPRENDIMIENTO 1 + MANUALIDADES EN DECOUPAGE - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5897125,
+          14.9243759
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Zacapa , San Jorge",
+        "departamento": "Zacapa ",
+        "municipio": "San Jorge",
+        "direccion": "Zacapa , San Jorge",
+        "descripcion": "Los cursos que se encuentran disponibles en Zacapa , San Jorge son: EMPRENDIMIENTO 1 + CORTE Y CONFECCIÓN - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3939093,
+          14.302152
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: SANTA ROSA, BARBERENA",
+        "departamento": "SANTA ROSA",
+        "municipio": "BARBERENA",
+        "direccion": "SANTA ROSA, BARBERENA",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, BARBERENA son: BORDADO EN MALLA CON RAFIA - ACTIVO, BORDADO EN MALLA CON RAFIA, RECICLAJE Y MANUALIDADES - ACTIVO, CESTERÍA MANUALIDADES Y RECICLAJE  - ACTIVO, BORDADOS EN MALLA CON RAFIA, MANUALIDADES Y RECICLAJE - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3806317,
+          14.392544
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SANTA ROSA, SANTA CRUZ NARANJO",
+        "departamento": "SANTA ROSA",
+        "municipio": "SANTA CRUZ NARANJO",
+        "direccion": "SANTA ROSA, SANTA CRUZ NARANJO",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, SANTA CRUZ NARANJO son: CESTERÍA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2989113,
+          14.276824
+        ]
+      },
+      "properties": {
+        "titulo": "7 cursos en: SANTA ROSA, CUILAPA",
+        "departamento": "SANTA ROSA",
+        "municipio": "CUILAPA",
+        "direccion": "SANTA ROSA, CUILAPA",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, CUILAPA son: CESTERÍA - ACTIVO, MANUALIDADES Y PRODUCTOS DE HIGIENE PARA EL HOGAR - ACTIVO, MANUALIDADES Y PRODUCTOS DE HIGIENE PARA EL HOGAR - ACTIVO, MANUALIDADES Y PRODUCTOS DE HIGIENE PARA EL HOGAR - ACTIVO, MANUALIDADES - ACTIVO, MNUALIDADES ARTÍSTICAS - ACTIVO, PRODUCTOS DE LIMPIEZA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3485874,
+          14.4365206
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SANTA ROSA, SANTA ROSA DE LIMA",
+        "departamento": "SANTA ROSA",
+        "municipio": "SANTA ROSA DE LIMA",
+        "direccion": "SANTA ROSA, SANTA ROSA DE LIMA",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, SANTA ROSA DE LIMA son: CORTE Y CONFECCIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5518614,
+          14.0330488
+        ]
+      },
+      "properties": {
+        "titulo": "8 cursos en: SANTA ROSA, TAXISCO",
+        "departamento": "SANTA ROSA",
+        "municipio": "TAXISCO",
+        "direccion": "SANTA ROSA, TAXISCO",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, TAXISCO son: MANUALIDADES CON EMPRENDIMIENTO LABORAL - ACTIVO, MANUALIDADES CON BISUTERÍA - ACTIVO, MANUALIDADES CON EMPRENDIMIENTO  - ACTIVO, EMPRENDIMIENTO LABORAL - ACTIVO, MANUALIDADES CREATIVAS - ACTIVO, PIÑATERÍA - ACTIVO, MANUALIDADES CREATIVAS - ACTIVO, COCINA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2548235,
+          14.375234
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SANTA ROSA, NUEVA SANTA ROSA",
+        "departamento": "SANTA ROSA",
+        "municipio": "NUEVA SANTA ROSA",
+        "direccion": "SANTA ROSA, NUEVA SANTA ROSA",
+        "descripcion": "Los cursos que se encuentran disponibles en SANTA ROSA, NUEVA SANTA ROSA son: CORTE Y CONFECCIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8990143,
+          14.5134295
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Jalapa, Monjas",
+        "departamento": "Jalapa",
+        "municipio": "Monjas",
+        "direccion": "Jalapa, Monjas",
+        "descripcion": "Los cursos que se encuentran disponibles en Jalapa, Monjas son: Mantas Bordadas, Técnicas a Crochet y Manualidades de Flores Eternas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9897996,
+          14.6344164
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Jalapa, Jalapa",
+        "departamento": "Jalapa",
+        "municipio": "Jalapa",
+        "direccion": "Jalapa, Jalapa",
+        "descripcion": "Los cursos que se encuentran disponibles en Jalapa, Jalapa son: Computación  - ACTIVO, Computación  - ACTIVO, Computación  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7165719,
+          14.6525643
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Jalapa, San Luis Jilotepeque",
+        "departamento": "Jalapa",
+        "municipio": "San Luis Jilotepeque",
+        "direccion": "Jalapa, San Luis Jilotepeque",
+        "descripcion": "Los cursos que se encuentran disponibles en Jalapa, San Luis Jilotepeque son: Ingles Basico  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.686002,
+          14.3135847
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: JUTIAPA, Asunción Mita",
+        "departamento": "JUTIAPA",
+        "municipio": "Asunción Mita",
+        "direccion": "JUTIAPA, Asunción Mita",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Asunción Mita son:  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0130721,
+          14.1061559
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: JUTIAPA, Jalpatagua",
+        "departamento": "JUTIAPA",
+        "municipio": "Jalpatagua",
+        "direccion": "JUTIAPA, Jalpatagua",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Jalpatagua son: Decoración Navideña - ACTIVO, Bordado Español - ACTIVO, Peinado en trenzas - ACTIVO, Estampado en tela - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.896705,
+          14.2925976
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: JUTIAPA, ",
+        "departamento": "JUTIAPA",
+        "municipio": "JUTIAPA",
+        "direccion": "JUTIAPA, ",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA,  son: Estampado en tela  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2067526,
+          13.9787355
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: JUTIAPA, Pasaco",
+        "departamento": "JUTIAPA",
+        "municipio": "Pasaco",
+        "direccion": "JUTIAPA, Pasaco",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Pasaco son: Bordado de Diseños en tela de Cuadros - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8512941,
+          14.3859094
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: JUTIAPA, El Progreso",
+        "departamento": "JUTIAPA",
+        "municipio": "El Progreso",
+        "direccion": "JUTIAPA, El Progreso",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, El Progreso son: Bordado Español - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.896705,
+          14.2925976
+        ]
+      },
+      "properties": {
+        "titulo": "28 cursos en: JUTIAPA, Jutiapa",
+        "departamento": "JUTIAPA",
+        "municipio": "Jutiapa",
+        "direccion": "JUTIAPA, Jutiapa",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Jutiapa son: Bordado de diseños con estampado de fieltro en diferentes prendas - FINALIZADO, Corte y confección ( prendas Básicas )  - FINALIZADO, Uñas Acrílicas básico  - FINALIZADO, Porcelana Fría y Bisutería   - FINALIZADO, Uñas de poli Gel  - FINALIZADO, Bordado a máquina fase II  - FINALIZADO, Bordado a máquina fase III - FINALIZADO, Bordado a máquina fase I Bordado a máquina fase I  - FINALIZADO, Bordado a máquina prendas básicas  - FINALIZADO, Cocina Horneada  - FINALIZADO, Repostería Fría  - FINALIZADO, Cocina básica  - FINALIZADO, Elaboración de Bebidas Café - FINALIZADO, Repostria Básica - FINALIZADO, Elaboración de Flores de Fomy - FINALIZADO, Reposteria Básica  - FINALIZADO, Reposteria Ambiente  - FINALIZADO, Reposteria Fria - ACTIVO, Curso de Crepas - ACTIVO, Curso de Cocina Básica - ACTIVO, Curso de Reposteria Básica - ACTIVO, Corte y confección ( prendas Básicas )  - FINALIZADO, Corte y confección ( prendas Básicas )  - FINALIZADO, Corte y confección ( prendas Básicas )  - FINALIZADO, corte y confección ( Modulo III)  - FINALIZADO, Bordado a máquina fase II  - FINALIZADO, Bordado a máquina fase I Bordado a máquina fase I  - FINALIZADO, Bordado tradicional en diferentes prendas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7188628,
+          14.1805166
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: JUTIAPA, Atescatempa",
+        "departamento": "JUTIAPA",
+        "municipio": "Atescatempa",
+        "direccion": "JUTIAPA, Atescatempa",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Atescatempa son: Fotografía l - FINALIZADO, Manualidades en Tejas y Comales - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.897411,
+          14.1200965
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: JUTIAPA, Comapa",
+        "departamento": "JUTIAPA",
+        "municipio": "Comapa",
+        "direccion": "JUTIAPA, Comapa",
+        "descripcion": "Los cursos que se encuentran disponibles en JUTIAPA, Comapa son:  Huertos Familiare - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8041154,
+          14.4841685
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Sacatepéquez, SAN JUAN ALOTENANGO",
+        "departamento": "Sacatepéquez",
+        "municipio": "SAN JUAN ALOTENANGO",
+        "direccion": "Sacatepéquez, SAN JUAN ALOTENANGO",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SAN JUAN ALOTENANGO son: ELABORACIÓN DE BOLSAS Y CARTERAS CON TÉCNICA DE GRECAS, AGARRADORES DE MADERA Y CUERO - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS CON TOQUILLA - ACTIVO, ELETRICIDAD BÁSICA DOMICILIAR - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7337346,
+          14.5567814
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: Sacatepéquez, ANTIGUA GUATEMALA",
+        "departamento": "Sacatepéquez",
+        "municipio": "ANTIGUA GUATEMALA",
+        "direccion": "Sacatepéquez, ANTIGUA GUATEMALA",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, ANTIGUA GUATEMALA son: AREGLOS FLORALES BÁSICO - ACTIVO, BARTENDER Y PREPARADOR (A) DE BOQUITAS (EDICIÓN 2020) - ACTIVO, CESTERÍA - ACTIVO, ELABORACIÓN DE CESTA CON HILO PLÁSTICO - ACTIVO, ELABORACIÓN DE CESTAS, CARTERAS Y BOLSAS CON HILO PLÁSTICO - ACTIVO, UÑAS ACRÍLICAS Y GEL SEMIPERMANENTE - ACTIVO, ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO, INGLÉS BÁSICO - ACTIVO, CORTES DE CABELLO PARA DAMA NIVEL INICIAL - ACTIVO, LETTERING - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7698853,
+          14.5127644
+        ]
+      },
+      "properties": {
+        "titulo": "15 cursos en: Sacatepéquez, CIUDAD VIEJA",
+        "departamento": "Sacatepéquez",
+        "municipio": "CIUDAD VIEJA",
+        "direccion": "Sacatepéquez, CIUDAD VIEJA",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, CIUDAD VIEJA son: REPOSTERIA INICIAL - ACTIVO, REPOSTERIA INTERMEDIA, TÉCNICAS BÁSICAS DE DECORACIÓN - ACTIVO, ELABORACIÓN DE BOLSAS CON TOQUILLA UTILIZANDO LA TÉCNICA DE GRECA - ACTIVO, ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO, BARBERÍA NIVEL INTERMEDIO - ACTIVO, FACIALES Y MAQUILLAJE BÁSICO - ACTIVO, SOPORTE Y MANTENIMIENTO DE COMPUTADORAS BÁSICO - ACTIVO, SOPORTE Y MANTENIMIENTO DE COMPUTADORAS BÁSICO - ACTIVO, INSTALACIONES ELÉCTRICAS DOMICILIARES BÁSICAS - ACTIVO, TEJIDO EN CROCHET INICIAL - ACTIVO, TÉCNICAS DE MAQUILLAJE EN ROSTRO NIVEL INTERMEDIO - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS CON TOQUILLA - ACTIVO, COMPUTACIÓN NIVEL INICIAL - ACTIVO, COMPUTACIÓN INICIAL - ACTIVO, LETTERING - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7306948,
+          14.5904607
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: Sacatepéquez, JOCOTENANGO",
+        "departamento": "Sacatepéquez",
+        "municipio": "JOCOTENANGO",
+        "direccion": "Sacatepéquez, JOCOTENANGO",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, JOCOTENANGO son: AMIGURUMIS - ACTIVO, BISUTERIA - ACTIVO, BORDADO EN HILVÁN - ACTIVO, CORTES DE CABELLO PARA DAMA NIVEL INICIAL - ACTIVO, CORTES DE CABELLO PARA DAMA NIVEL INTERMEDIO - ACTIVO, ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO, BORDADO EN PANALITO INICIAL - ACTIVO, INSTALACIONES ELÉCTRICAS DOMICILIARES BÁSICAS - ACTIVO, FLORES TEJIDAS A CROCHET - ACTIVO, FLORES TEJIDAS A CROCHET - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748557,
+          14.5429001
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: Sacatepéquez, MAGDALENA MILPAS ALTAS",
+        "departamento": "Sacatepéquez",
+        "municipio": "MAGDALENA MILPAS ALTAS",
+        "direccion": "Sacatepéquez, MAGDALENA MILPAS ALTAS",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, MAGDALENA MILPAS ALTAS son: CESTERÍA - ACTIVO, CESTERÍA INTERMEDIO - ACTIVO, UÑAS ACRÍLICAS   - ACTIVO, UÑAS ACRÍLICAS Y GEL SEMIPERMANENTE - ACTIVO, ELABORACIÓN DE BOLSOS MEXICANOS - ACTIVO, FLORES TEJIDAS - ACTIVO, FLORES TEJIDAS A CROCHET - ACTIVO, MACRAMÉ - ACTIVO, BOLSOS  Y CARTERAS CON APLICACIONES - ACTIVO, BORDADO CON MALLA PLÁSTICA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7637001,
+          14.6014458
+        ]
+      },
+      "properties": {
+        "titulo": "18 cursos en: Sacatepéquez, PASTORES",
+        "departamento": "Sacatepéquez",
+        "municipio": "PASTORES",
+        "direccion": "Sacatepéquez, PASTORES",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, PASTORES son: CESTERÍA - ACTIVO, CESTERÍA INTERMEDIO - ACTIVO, PANADERIA - ACTIVO, REPOSTERIA INICIAL - ACTIVO, ARREGLOS FLORALES - ACTIVO, INGLÉS BÁSICO - ACTIVO, INSTALACIONES ELÉCTRICAS DOMICILIARES BÁSICAS - ACTIVO, PANADERIA - ACTIVO, REPOSTERIA INICIAL - ACTIVO, REPOSTERIA INTERMEDIA, TÉCNICAS BÁSICAS DE DECORACIÓN - ACTIVO, SOPORTE Y MANTENIMIENTO DE COMPUTADORAS BÁSICO - ACTIVO, SOPORTE Y MANTENIMIENTO DE COMPUTADORAS BÁSICO - ACTIVO, TÉCNICAS DE MAQUILLAJE EN ROSTRO NIVEL INTERMEDIO - ACTIVO, UÑAS ACRÍLICAS   - ACTIVO, COMPUTACIÓN NIVEL INICIAL - ACTIVO, COMPUTACIÓN NIVEL INICIAL - ACTIVO, ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO, FACIALES Y MAQUILLAJE BÁSICO - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7773238,
+          14.5541308
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Sacatepéquez, SAN ANTONIO AGUAS CALIENTES",
+        "departamento": "Sacatepéquez",
+        "municipio": "SAN ANTONIO AGUAS CALIENTES",
+        "direccion": "Sacatepéquez, SAN ANTONIO AGUAS CALIENTES",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SAN ANTONIO AGUAS CALIENTES son: REPOSTERIA BÁSICA - ACTIVO, REPOSTERIA INTERMEDIA, TÉCNICAS BÁSICAS DE DECORACIÓN - ACTIVO, ARREGLOS FLORALES INICIAL - ACTIVO, ARREGLOS FLORALES INTERMEDIO, TÉCNICAS BÁSICAS DE DECORACIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6804287,
+          14.6031916
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Sacatepéquez, SAN BARTOLOME MILPAS ALTAS",
+        "departamento": "Sacatepéquez",
+        "municipio": "SAN BARTOLOME MILPAS ALTAS",
+        "direccion": "Sacatepéquez, SAN BARTOLOME MILPAS ALTAS",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SAN BARTOLOME MILPAS ALTAS son: INSTALACIONES ELÉCTRICAS DOMICILIARES BÁSICAS - ACTIVO, ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6549806,
+          14.6113383
+        ]
+      },
+      "properties": {
+        "titulo": "13 cursos en: Sacatepéquez, SAN LUCAS SACATEPÉQUEZ",
+        "departamento": "Sacatepéquez",
+        "municipio": "SAN LUCAS SACATEPÉQUEZ",
+        "direccion": "Sacatepéquez, SAN LUCAS SACATEPÉQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SAN LUCAS SACATEPÉQUEZ son: ELECTRICIDAD BÁSICA DOMICILIAR - ACTIVO, INSTALACIONES ELÉCTRICAS DOMICILIARES BÁSICAS - ACTIVO, TEJIDO EN CROCHET INICIAL - ACTIVO, TEJIDO EN CROCHET INTERMEDIO - ACTIVO, CORTE Y CONFECCIÓN - ACTIVO, CORTE Y CONFECCIÓN INICIAL - ACTIVO, CORTE Y CONFECCIÓN DE BLANCOS - ACTIVO, FACIALES Y MAQUILLAJE BÁSICO - ACTIVO, ELABORACIÓN DE BOLSAS CON TOQUILLA CON TÉCNICA DE GRECAS, AGARRADORES DE MADERA Y CUERO - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS  CON TÉCNICA DE GRECAS - ACTIVO, ELABORACIÓN DE CESTA CON HILO PLÁSTICO - ACTIVO, TÉCNICAS DE MAQUILLAJE EN ROSTRO NIVEL INTERMEDIO - ACTIVO, BORDADO EN MAYA PLASTICA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8248092,
+          14.5300009
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Sacatepéquez, SAN MIGUEL DUEÑAS",
+        "departamento": "Sacatepéquez",
+        "municipio": "SAN MIGUEL DUEÑAS",
+        "direccion": "Sacatepéquez, SAN MIGUEL DUEÑAS",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SAN MIGUEL DUEÑAS son: ELABORACIÓN DE BOLSAS Y CARTERAS CON TOQUILLA - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS CON AGARRADORES DE MADERA Y CUERO - ACTIVO, FLORES TEJIDAS A CROCHET - ACTIVO, FLORES TEJIDAS A CROCHET - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6732398,
+          14.5723091
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: Sacatepéquez, SANTA LUCIA MILPAS ALTAS",
+        "departamento": "Sacatepéquez",
+        "municipio": "SANTA LUCIA MILPAS ALTAS",
+        "direccion": "Sacatepéquez, SANTA LUCIA MILPAS ALTAS",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SANTA LUCIA MILPAS ALTAS son: CESTERÍA - ACTIVO, UÑAS ACRILICAS - ACTIVO, UÑAS ACRÍLICAS Y GEL SEMIPERMANENTE - ACTIVO, COCINA BÁSICA - ACTIVO, CORTE Y CONFECCIÓN AVANZADO - ACTIVO, CORTE Y CONFECCIÓN INTERMEDIO 2 - ACTIVO, ENVASADO Y CONSERVA DE FRUTAS Y VERDURAS DE TEMPORADA - ACTIVO, ENVASADO Y CONSERVA DE FRUTAS Y VERDURAS - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS CON TOQUILLA - ACTIVO, ELABORACIÓN DE BOLSAS Y CARTERAS CON AGARRADORES DE MADERA Y CUERO - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6760466,
+          14.6348332
+        ]
+      },
+      "properties": {
+        "titulo": "13 cursos en: Sacatepéquez, SANTIAGO SACATEPÉQUEZ",
+        "departamento": "Sacatepéquez",
+        "municipio": "SANTIAGO SACATEPÉQUEZ",
+        "direccion": "Sacatepéquez, SANTIAGO SACATEPÉQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SANTIAGO SACATEPÉQUEZ son: BORDADO TÍPICO - ACTIVO, BORDADO TÍPICO - ACTIVO, BORDADO TÍPICO - ACTIVO, TEJIDO, ELABORACIÓN DE FAJAS - ACTIVO, TEJIDO EN CINTURA - ACTIVO, TEJIDO EN CINTURA AVANZADO - ACTIVO, TEJIDO EN CINTURA  - ACTIVO, CESTERÍA - ACTIVO, CORTES DE CABELLO PARA DAMA NIVEL INICIAL - ACTIVO, CORTES DE CABELLO PARA DAMA NIVEL INTERMEDIO - ACTIVO, TEJIDO EN CINTURA INTERMEDIO - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7004745,
+          14.6845744
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Sacatepéquez, SANTO DOMINGO XENACOJ",
+        "departamento": "Sacatepéquez",
+        "municipio": "SANTO DOMINGO XENACOJ",
+        "direccion": "Sacatepéquez, SANTO DOMINGO XENACOJ",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SANTO DOMINGO XENACOJ son: BORDADO TÍPICO - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO, TEJIDO EN CINTURA INTERMEDIO - ACTIVO, TEJIDO EN CINTURA INTERMEDIO - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7371578,
+          14.6470936
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: Sacatepéquez, SUMPANGO",
+        "departamento": "Sacatepéquez",
+        "municipio": "SUMPANGO",
+        "direccion": "Sacatepéquez, SUMPANGO",
+        "descripcion": "Los cursos que se encuentran disponibles en Sacatepéquez, SUMPANGO son: CORTE Y CONFECCIÓN INICIAL - ACTIVO, CORTE Y CONFECCIÓN  INTERMEDIO - ACTIVO, TEJIDO EN CINTURA INTERMEDIO - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO, TEJIDO EN CINTURA INICIAL - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8939968,
+          14.7461154
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: CHIMALTENANGO, San Juan Comalapa",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "San Juan Comalapa",
+        "direccion": "CHIMALTENANGO, San Juan Comalapa",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, San Juan Comalapa son: Cultora de belleza - ACTIVO, Arreglos Florales - FINALIZADO, Arreglos Florales II - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8829005,
+          14.6773403
+        ]
+      },
+      "properties": {
+        "titulo": "8 cursos en: CHIMALTENANGO, Zaragoza",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Zaragoza",
+        "direccion": "CHIMALTENANGO, Zaragoza",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, Zaragoza son: Repostería - ACTIVO, Cocina Típica - FINALIZADO, Cultora de belleza - ACTIVO, Embutidos  - ACTIVO, Velas Artesanales - FINALIZADO, Figuras con limpiapipas - FINALIZADO, Centros de mesa - ACTIVO, Figuras con limpiapipas II - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7909935,
+          14.6474205
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: CHIMALTENANGO, El tejar",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "El tejar",
+        "direccion": "CHIMALTENANGO, El tejar",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, El tejar son: Velas Artesanales - FINALIZADO, Centros de mesa - ACTIVO, Carpintería Intermedia - ACTIVO, Carpintería Intermedia - ACTIVO, ARRANQUE BÁSICO DE MOTORES CON CONTACTORES - ACTIVO, MANTENIMIENTO DE MOTORES ELÉCTRICOS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8193493,
+          14.6613043
+        ]
+      },
+      "properties": {
+        "titulo": "25 cursos en: CHIMALTENANGO, Chimaltenango",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Chimaltenango",
+        "direccion": "CHIMALTENANGO, Chimaltenango",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, Chimaltenango son: Maquillaje y automaquillaje - FINALIZADO, Maquillaje y automaquillaje - FINALIZADO, Velas Artesanales - ACTIVO, Porcelana Fría - ACTIVO, Carpintería Avanzada - ACTIVO, Carpintería Inicial - ACTIVO, ELECTRICIDAD INDUSTRIAL - ACTIVO, ELECTRICIDAD DOMICILIAR - ACTIVO, ARRANQUE BÁSICO DE MOTORES CON CONTACTORES - ACTIVO, Corte de cabello  - FINALIZADO, Uñas Acrilicas - FINALIZADO, Maquillaje y automaquillaje - FINALIZADO, Uñas acrilicas basicas  - ACTIVO, Uñas AEsculturales y 3D - ACTIVO, Maquillaje y automaquillaje - ACTIVO, PIE Y POSTRES DULCES-SALADOS - ACTIVO, REPOSTERÍA II - ACTIVO, MANTENIMIENTO Y REPARACIÓN DE COMPUTADORAS  - ACTIVO, MANTENIMIENTO Y REPARACIÓN DE COMPUTADORAS  - ACTIVO, INGLÉS BÁSICO - ACTIVO, REPOSTERIA BASICA  - FINALIZADO, REPOSTERÍA BÁSICA  - ACTIVO, REPOSTERÍA BÁSICA  - ACTIVO, REPOSTERÍA BÁSICA  - ACTIVO, REPOSTERÍA BÁSICA  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8193493,
+          14.6613043
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: CHIMALTENANGO, Chimaltenango ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Chimaltenango ",
+        "direccion": "CHIMALTENANGO, Chimaltenango ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, Chimaltenango  son: Decoracion en Globo burbuja - FINALIZADO, Peinados  - FINALIZADO, PIE Y POSTRES DULCES-SALADOS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.84038405,
+          14.66569771
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO, Chimaltenango, Aldea Buena Vista ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Chimaltenango, Aldea Buena Vista ",
+        "direccion": "CHIMALTENANGO, Chimaltenango, Aldea Buena Vista ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, Chimaltenango, Aldea Buena Vista  son: Corte de Cabello  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8090889,
+          14.6599153
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO, Chimaltenango, Las Victorias",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Chimaltenango, Las Victorias",
+        "direccion": "CHIMALTENANGO, Chimaltenango, Las Victorias",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, Chimaltenango, Las Victorias son: Corte de cabello  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7909935,
+          14.6474205
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: CHIMALTENANGO, EL TEJAR ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "EL TEJAR ",
+        "direccion": "CHIMALTENANGO, EL TEJAR ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, EL TEJAR  son: REPOSTERÍA BÁSICA  - FINALIZADO, PIE Y POSTRES DULCES-SALADOS - FINALIZADO, REPOSTERÍA BÁSICA  - FINALIZADO, REPOSTERÍA II - ACTIVO, BORDADO A MANO - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.773235,
+          14.8341081
+        ]
+      },
+      "properties": {
+        "titulo": "8 cursos en: CHIMALTENANGO , SAN MARTIN JILOTEPEQUE ",
+        "departamento": "CHIMALTENANGO ",
+        "municipio": "SAN MARTIN JILOTEPEQUE ",
+        "direccion": "CHIMALTENANGO , SAN MARTIN JILOTEPEQUE ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO , SAN MARTIN JILOTEPEQUE  son: COCINA BÁSICA  - FINALIZADO, COCINA BÁSICA  - FINALIZADO, COCINA BÁSICA  - FINALIZADO, CESTERÍA ARTESANAL - FINALIZADO, CESTERÍA ARTESANAL - FINALIZADO, BORDADO - FINALIZADO, BORDADO - FINALIZADO, REPOSTERÍA BÁSICA  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.77323297,
+          14.72063184
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO, CHIMALTENANGO, ALDEA SAN JACINTO",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "CHIMALTENANGO, ALDEA SAN JACINTO",
+        "direccion": "CHIMALTENANGO, CHIMALTENANGO, ALDEA SAN JACINTO",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, CHIMALTENANGO, ALDEA SAN JACINTO son: PRODUCTOR AGROPECUARIO CON ESPECIALIDAD EN ALIMENTACIÓN ESCOLAR - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8441322,
+          14.620779
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: CHIMALTENANGO, SAN ANDRÉS ITZAPA ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "SAN ANDRÉS ITZAPA ",
+        "direccion": "CHIMALTENANGO, SAN ANDRÉS ITZAPA ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, SAN ANDRÉS ITZAPA  son: MANTENIMIENTO Y REPARACIÓN DE COMPUTADORAS  - ACTIVO, REPOSTERÍA BÁSICA  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0293203,
+          14.6499391
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO, PATZUN ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "PATZUN ",
+        "direccion": "CHIMALTENANGO, PATZUN ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, PATZUN  son: MANUALIDADES EN FOAMY Y BISUTERÍA  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9297387,
+          14.630934
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: CHIMALTENANGO, PATZICIA",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "PATZICIA",
+        "direccion": "CHIMALTENANGO, PATZICIA",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, PATZICIA son: CORTE Y CONFECCION EN ROPA TIPICA INICIAL - ACTIVO, CORTE Y CONFECCION EN ROPA TIPICA ETAPA INTERMEDIA  - FINALIZADO, BORDADO CON LISTON  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0293203,
+          14.6499391
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: CHIMALTENANGO, PATZÚN",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "PATZÚN",
+        "direccion": "CHIMALTENANGO, PATZÚN",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, PATZÚN son: TÉCNICAS BÁSICAS DE UÑAS SEMIPERMANENTE Y ACRÍLICAS - FINALIZADO, COMPUTACIÓN - ACTIVO, TEJIDO EN CINTURA - ACTIVO, COMPUTACIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9263636,
+          14.6918883
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO, SANTA CRUZ BALANYÁ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "SANTA CRUZ BALANYÁ",
+        "direccion": "CHIMALTENANGO, SANTA CRUZ BALANYÁ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO, SANTA CRUZ BALANYÁ son: COMPUTACIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7909935,
+          14.6474205
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: CHIMALTENANGO,  EL TEJAR ",
+        "departamento": "CHIMALTENANGO",
+        "municipio": " EL TEJAR ",
+        "direccion": "CHIMALTENANGO,  EL TEJAR ",
+        "descripcion": "Los cursos que se encuentran disponibles en CHIMALTENANGO,  EL TEJAR  son: COCINA INTERMEDIA  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7866243,
+          14.3022857
+        ]
+      },
+      "properties": {
+        "titulo": "26 cursos en: ESCUINTLA, Escuintla",
+        "departamento": "ESCUINTLA",
+        "municipio": "Escuintla",
+        "direccion": "ESCUINTLA, Escuintla",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, Escuintla son: Canastas Artesanales  - FINALIZADO, Canastas Artesanales  - FINALIZADO, Globoflexia  - FINALIZADO, Decoración con globos nivel intermedio  - FINALIZADO, Culltora de Belleza - ACTIVO, Arreglos florales naturales  - ACTIVO, Elaboración de Velas Artesanales                                                                                          - FINALIZADO, Repostería nivel intermedio - ACTIVO, Diplomado de Promotoras de Desarrollo Comunitario - ACTIVO, Gastronomia Internacional - ACTIVO, Barberia  - FINALIZADO, Barberia  - FINALIZADO, Barberia  - FINALIZADO, Cultora de Belleza  - ACTIVO, Reposteria nivel Básico - ACTIVO, Biscochos  - FINALIZADO, Reposteria nivel Intermedio - ACTIVO, Decoración de Pasteles  - ACTIVO, Cocina  - ACTIVO, Corte y confecciòn - ACTIVO, Hechura de blancos - FINALIZADO, Quimicos  - FINALIZADO, Uñas Acrilicas nivel Inicial - FINALIZADO, Uñas Acrilicas nivel inicial - ACTIVO, Uñas Acrilicas nivel Inicial - ACTIVO, Uñas Acrilicas nivel Inicial - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.077711,
+          14.3001911
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: ESCUINTLA, Santa Lucia Cotzumalguapa",
+        "departamento": "ESCUINTLA",
+        "municipio": "Santa Lucia Cotzumalguapa",
+        "direccion": "ESCUINTLA, Santa Lucia Cotzumalguapa",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, Santa Lucia Cotzumalguapa son: Bolsas Artesanales  - FINALIZADO, Quimicos  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9277415,
+          14.1646888
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: ESCUINTLA, La Democracia ",
+        "departamento": "ESCUINTLA",
+        "municipio": "La Democracia ",
+        "direccion": "ESCUINTLA, La Democracia ",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, La Democracia  son: Quimicos  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8160468,
+          14.1030913
+        ]
+      },
+      "properties": {
+        "titulo": "7 cursos en: ESCUINTLA,  Masagua",
+        "departamento": "ESCUINTLA",
+        "municipio": " Masagua",
+        "direccion": "ESCUINTLA,  Masagua",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA,  Masagua son: Cocina Internacional  - ACTIVO, Decoración con Globos nivel Inicial - ACTIVO, Piñatería nivel Intermedio  - ACTIVO, Repostería  - ACTIVO, Repostería  - ACTIVO, Cejas y pestañas  - FINALIZADO, Barberia Unisex  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1247876,
+          14.0823023
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: ESCUINTLA, La Gomera ",
+        "departamento": "ESCUINTLA",
+        "municipio": "La Gomera ",
+        "direccion": "ESCUINTLA, La Gomera ",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, La Gomera  son: Quimicos  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1247876,
+          14.0823023
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: ESCUINTLA, La Gomera",
+        "departamento": "ESCUINTLA",
+        "municipio": "La Gomera",
+        "direccion": "ESCUINTLA, La Gomera",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, La Gomera son: Quimicos  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.718788,
+          14.1629959
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: ESCUINTLA,  Guanagazapa",
+        "departamento": "ESCUINTLA",
+        "municipio": " Guanagazapa",
+        "direccion": "ESCUINTLA,  Guanagazapa",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA,  Guanagazapa son: Cultora de Belleza  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8875886,
+          13.9940638
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: ESCUINTLA,  San José",
+        "departamento": "ESCUINTLA",
+        "municipio": " San José",
+        "direccion": "ESCUINTLA,  San José",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA,  San José son: Uñas acrilicas nivel intermedio  - FINALIZADO, Maquillaje y peinados  - FINALIZADO, Canastas Artesanales  - FINALIZADO, Canastas Artesanales  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7182886,
+          14.390007
+        ]
+      },
+      "properties": {
+        "titulo": "13 cursos en: ESCUINTLA, Palín",
+        "departamento": "ESCUINTLA",
+        "municipio": "Palín",
+        "direccion": "ESCUINTLA, Palín",
+        "descripcion": "Los cursos que se encuentran disponibles en ESCUINTLA, Palín son: Candy bar  - ACTIVO, Bartender  - ACTIVO, Decoracion con globos  - ACTIVO, Arreglos florales narutales  - ACTIVO, Repostería nivel Intermedio  - ACTIVO, Panadería Artesanal - ACTIVO, Decoración de Pasteles  - ACTIVO, Gastronomía Internacional - ACTIVO, Repostería nivel Inicial - ACTIVO, Decoraciòn de pasteles - ACTIVO, Reposterìa nivel inicial - FINALIZADO, Decoraciòn de pasteles - ACTIVO, Uñas nivel Inicial - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1833175,
+          14.7722369
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SOLOLÁ, SOLOLÁ",
+        "departamento": "SOLOLÁ",
+        "municipio": "SOLOLÁ",
+        "direccion": "SOLOLÁ, SOLOLÁ",
+        "descripcion": "Los cursos que se encuentran disponibles en SOLOLÁ, SOLOLÁ son: REPOSTERÍA BÁSICA - FINALIZADO, Bordado en Crucetas - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1559757,
+          14.7421699
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: SOLOLÁ, PANAJACHEL",
+        "departamento": "SOLOLÁ",
+        "municipio": "PANAJACHEL",
+        "direccion": "SOLOLÁ, PANAJACHEL",
+        "descripcion": "Los cursos que se encuentran disponibles en SOLOLÁ, PANAJACHEL son: COMPUTACIÓN BÁSICA/INTERMEDIA - FINALIZADO, REPOSTERÍA BÁSICA - FINALIZADO, REPOSTERÍA BÁSICA - FINALIZADO, Corte y Confeccíon Emperlado - FINALIZADO, Telar de cintura - ACTIVO, Corte y Confección Inicial - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2651357,
+          14.7809012
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: SOLOLÁ, SANTA LUCÍA UTATLÁN",
+        "departamento": "SOLOLÁ",
+        "municipio": "SANTA LUCÍA UTATLÁN",
+        "direccion": "SOLOLÁ, SANTA LUCÍA UTATLÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en SOLOLÁ, SANTA LUCÍA UTATLÁN son: REPOSTERÍA BÁSICA - FINALIZADO, Bordado Realista  - ACTIVO, Bordado Realista - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1833175,
+          14.7722369
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: SOLOLÁ, sololá ",
+        "departamento": "SOLOLÁ",
+        "municipio": "sololá ",
+        "direccion": "SOLOLÁ, sololá ",
+        "descripcion": "Los cursos que se encuentran disponibles en SOLOLÁ, sololá  son: Corte confección  - ACTIVO, Reposteria II - ACTIVO, Emperlados  - ACTIVO, Bordado a Mano  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.442601,
+          14.7341978
+        ]
+      },
+      "properties": {
+        "titulo": "9 cursos en: SOLOLÁ, Nahualá",
+        "departamento": "SOLOLÁ",
+        "municipio": "Nahualá",
+        "direccion": "SOLOLÁ, Nahualá",
+        "descripcion": "Los cursos que se encuentran disponibles en SOLOLÁ, Nahualá son: Tejido en cintura - FINALIZADO, Tejido en cintura - FINALIZADO, Tejido en cintura - FINALIZADO, bordados a mano - FINALIZADO, Tejido en cintura - ACTIVO, Tejido de sintura  - ACTIVO, Tejido de sintura  - ACTIVO, Tejido de sintura  - ACTIVO, Tejido de sintura  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3609089,
+          15.1118091
+        ]
+      },
+      "properties": {
+        "titulo": "7 cursos en: TOTONICAPÁN, MOMOSTENANGO",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "MOMOSTENANGO",
+        "direccion": "TOTONICAPÁN, MOMOSTENANGO",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, MOMOSTENANGO son: REPOSTERÍA - FINALIZADO, REPOSTERÍA - ACTIVO, BORDADORA - ACTIVO, TEJIDO EN CROCHET - FINALIZADO, CESTAS BORDADAS - FINALIZADO, CESTERÍA - FINALIZADO, CORTE Y CONFECCIÓN DE DELANTALES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3609089,
+          15.1118091
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: TOTONICAPÁN, MOMOSTENANGO ",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "MOMOSTENANGO ",
+        "direccion": "TOTONICAPÁN, MOMOSTENANGO ",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, MOMOSTENANGO  son: FLORISTERIA - ACTIVO, CULTOR DE BELLEZA - ACTIVO, APLICACIÓN DE GEL SEMIPERMANENTE - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.48137256,
+          14.90380513
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: TOTONICAPAN, SAN ADNDRÉS XECUL",
+        "departamento": "TOTONICAPAN",
+        "municipio": "SAN ADNDRÉS XECUL",
+        "direccion": "TOTONICAPAN, SAN ADNDRÉS XECUL",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPAN, SAN ADNDRÉS XECUL son: TEJIDO EN CINTURA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3599703,
+          14.911838
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: TOTONICAPAN, TOTONICAPÁN",
+        "departamento": "TOTONICAPAN",
+        "municipio": "TOTONICAPÁN",
+        "direccion": "TOTONICAPAN, TOTONICAPÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPAN, TOTONICAPÁN son: BORDADO LISO - FINALIZADO, TEJIDO EN CINTURA - FINALIZADO, CORTE Y CONFECCIÓN DE BLUSAS QUICHELENSES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4952375,
+          14.9086848
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: TOTONICAPÁN, SAN ANDRÉS XECUL",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "SAN ANDRÉS XECUL",
+        "direccion": "TOTONICAPÁN, SAN ANDRÉS XECUL",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, SAN ANDRÉS XECUL son: CORTE Y CONFECCIÓN DE TIPICOS  - FINALIZADO, REPOSTERO - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.44294267,
+          14.9203818
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: TOTONICAPÁN, SANCRISTÓBAL TOTONICAPÁN",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "SANCRISTÓBAL TOTONICAPÁN",
+        "direccion": "TOTONICAPÁN, SANCRISTÓBAL TOTONICAPÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, SANCRISTÓBAL TOTONICAPÁN son: CORTE Y CONFECCIÓN DE BLUSAS QUICHELENSES - FINALIZADO, CORTE Y CONFECCIÓN DE BLUSAS QUICHELENSES - FINALIZADO, CORTE Y CONFECCIÓN DE DELANTALES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.45862688,
+          15.08476088
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: TOTONICAPÁN, SAN BARTOLO AGUAS CALIENTES",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "SAN BARTOLO AGUAS CALIENTES",
+        "direccion": "TOTONICAPÁN, SAN BARTOLO AGUAS CALIENTES",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, SAN BARTOLO AGUAS CALIENTES son: CORTE Y CONFECCIÓN DE TÍPICOS - ACTIVO, CORTE Y CONFECCIÓN DE DELANTALES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4514286,
+          14.9253722
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: TOTONICAPÁN, SAN CRISTÓBAL TOTONICAPÁN",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "SAN CRISTÓBAL TOTONICAPÁN",
+        "direccion": "TOTONICAPÁN, SAN CRISTÓBAL TOTONICAPÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en TOTONICAPÁN, SAN CRISTÓBAL TOTONICAPÁN son: CESTERÍA - FINALIZADO, CORTE Y CONFECCIÓN DE DELANTALES - FINALIZADO, CORTE Y CONFECCIÓN DE DELANTALES - ACTIVO, BORDADO - ACTIVO, CORTE Y CONFECCIÓN DE BLUSAS QUICHELENES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.35942958,
+          14.91695965
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Totonicapán , TOTONIAPÁN",
+        "departamento": "Totonicapán ",
+        "municipio": "TOTONIAPÁN",
+        "direccion": "Totonicapán , TOTONIAPÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en Totonicapán , TOTONIAPÁN son: CESTERÍA BORDADA - FINALIZADO, CESTERÍA BORDADA - FINALIZADO, CESTERÍA BORDADA - FINALIZADO, CESTERÍA BORDADA - FINALIZADO, CESTERÍA BORDADA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6426288,
+          14.823616
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Quetzaltenango, San Martín Sacatepéquez ",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Martín Sacatepéquez ",
+        "direccion": "Quetzaltenango, San Martín Sacatepéquez ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Martín Sacatepéquez  son: Confección de delantales típicos  - ACTIVO, Confeccion de playeras yprendas típicas en tornasol y diamantes - ACTIVO, Confección de playeras y prendas típicas en tornasol y diamantes  - ACTIVO, Confección de delantales típicos  - ACTIVO, Confección de delantales típicos  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73190766,
+          14.70760333
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Quetzaltenango, Colomba C.C",
+        "departamento": "Quetzaltenango",
+        "municipio": "Colomba C.C",
+        "direccion": "Quetzaltenango, Colomba C.C",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Colomba C.C son: Computación - ACTIVO, Computación - ACTIVO, Computación - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8656361,
+          14.7026327
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, Coatepeque",
+        "departamento": "Quetzaltenango",
+        "municipio": "Coatepeque",
+        "direccion": "Quetzaltenango, Coatepeque",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Coatepeque son: Agricultura - ACTIVO, Computación - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.88582558,
+          -91.51260486
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Aldea Barrios,Olintepeque",
+        "departamento": "Quetzaltenango",
+        "municipio": "Aldea Barrios,Olintepeque",
+        "direccion": "Quetzaltenango, Aldea Barrios,Olintepeque",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Aldea Barrios,Olintepeque son: Elaboración de Fajas en Tejido de Centura - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.543335,
+          14.924286
+        ]
+      },
+      "properties": {
+        "titulo": "9 cursos en: Quetzaltenango, San Francisco la Unión",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Francisco la Unión",
+        "direccion": "Quetzaltenango, San Francisco la Unión",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Francisco la Unión son: Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Bordado Espinado a Mano en Guipiles en Tela Alemán - FINALIZADO, Cocina Básica - ACTIVO, Repostería Básica - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.484805,
+          14.784802
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Quetzaltenango, Zunil",
+        "departamento": "Quetzaltenango",
+        "municipio": "Zunil",
+        "direccion": "Quetzaltenango, Zunil",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Zunil son: Bordado de Cruceta - ACTIVO, Bordadora de guipiles tipicos - ACTIVO, Bordado a Mano - ACTIVO, Bordadora de guipiles tipicos - ACTIVO, Bordadora de guipiles tipicos - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4575439,
+          14.8791084
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, Salcaja ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Salcaja ",
+        "direccion": "Quetzaltenango, Salcaja ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Salcaja  son: Trabajos Manuales Combinados con Diseños Pintados  en Tela  - ACTIVO, Belleza - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5194208,
+          14.8464612
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Quetzaltenango, Quetzaltenango ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Quetzaltenango ",
+        "direccion": "Quetzaltenango, Quetzaltenango ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Quetzaltenango  son: Trabajos Manuales Combinados con Diseños Pintados  en Tela  - ACTIVO, Bordado a mano  - FINALIZADO, Tejido de accesorios y prendas  - ACTIVO, Uñas acrílicas  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.514789,
+          14.8851427
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, Olintepeque",
+        "departamento": "Quetzaltenango",
+        "municipio": "Olintepeque",
+        "direccion": "Quetzaltenango, Olintepeque",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Olintepeque son: Belleza - ACTIVO, Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5213041,
+          14.7971453
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, Almolonga",
+        "departamento": "Quetzaltenango",
+        "municipio": "Almolonga",
+        "direccion": "Quetzaltenango, Almolonga",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Almolonga son: Diseño de cuellos para Güipiles  - ACTIVO, Bordado a mano de cuellos para Güipiles  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5213041,
+          14.7971453
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Almolonga ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Almolonga ",
+        "direccion": "Quetzaltenango, Almolonga ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Almolonga  son: Tejido en crochet  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.638009,
+          15.049498
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Quetzaltenango, Huitán ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Huitán ",
+        "direccion": "Quetzaltenango, Huitán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Huitán  son: Bordado sobre malla plastica  - ACTIVO, Bordado a mano  - ACTIVO, Bordado a mano  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.592535,
+          14.858973
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, San Mateo",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Mateo",
+        "direccion": "Quetzaltenango, San Mateo",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Mateo son: Bordado sobre malla plastica  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.592535,
+          14.858973
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, San Mateo ",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Mateo ",
+        "direccion": "Quetzaltenango, San Mateo ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Mateo  son: Bordado con listón  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6802466,
+          14.8618997
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Quetzaltenango, San Juan Ostuncalco",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Juan Ostuncalco",
+        "direccion": "Quetzaltenango, San Juan Ostuncalco",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Juan Ostuncalco son: Blancos del hogar - ACTIVO, Operaria de modista de trajes típicos con aplicación de tornasol - ACTIVO, Operaria o de mista de trajes típicos - ACTIVO, Operaria o de mista de trajes típicos - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6939816,
+          14.933152
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Palestina de los altos ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Palestina de los altos ",
+        "direccion": "Quetzaltenango, Palestina de los altos ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Palestina de los altos  son: Bordado a maquina  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6802466,
+          14.8618997
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Quetzaltenango, San Juan Ostuncalco ",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Juan Ostuncalco ",
+        "direccion": "Quetzaltenango, San Juan Ostuncalco ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Juan Ostuncalco  son: Randa en huipiles y delantales  - ACTIVO, Randa en huipiles y delantales  - ACTIVO, Randa en huipiles y delantales  - ACTIVO, Randa en huipiles y delantales  - ACTIVO, Randa en huipiles y delantales  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.514789,
+          14.8851427
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Olintepeque ",
+        "departamento": "Quetzaltenango",
+        "municipio": "Olintepeque ",
+        "direccion": "Quetzaltenango, Olintepeque ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Olintepeque  son: Uñas acrílicas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5713011,
+          14.8692299
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Quetzaltenango, La Esperanza ",
+        "departamento": "Quetzaltenango",
+        "municipio": "La Esperanza ",
+        "direccion": "Quetzaltenango, La Esperanza ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, La Esperanza  son: Bordado de blusas típicas  - ACTIVO, Cocina  - ACTIVO, Bordado de blusas típicas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4319781,
+          14.8187913
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Cantel",
+        "departamento": "Quetzaltenango",
+        "municipio": "Cantel",
+        "direccion": "Quetzaltenango, Cantel",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Cantel son: Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5713011,
+          14.8692299
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, La Esperanza",
+        "departamento": "Quetzaltenango",
+        "municipio": "La Esperanza",
+        "direccion": "Quetzaltenango, La Esperanza",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, La Esperanza son: Cocina - ACTIVO, Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5194208,
+          14.8464612
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Quetzaltenango",
+        "departamento": "Quetzaltenango",
+        "municipio": "Quetzaltenango",
+        "direccion": "Quetzaltenango, Quetzaltenango",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Quetzaltenango son: Pintura en tela - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6149478,
+          14.9227109
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Quetzaltenango, Cajolá",
+        "departamento": "Quetzaltenango",
+        "municipio": "Cajolá",
+        "direccion": "Quetzaltenango, Cajolá",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Cajolá son: Crochet - ACTIVO, Crochet - ACTIVO, Crochet - ACTIVO, Crochet - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5174212,
+          14.8322318
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quetzaltenango, San Miguel",
+        "departamento": "Quetzaltenango",
+        "municipio": "San Miguel",
+        "direccion": "Quetzaltenango, San Miguel",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, San Miguel son: Crochet - ACTIVO, Crochet - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5976751,
+          14.8773657
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quetzaltenango, Siguila",
+        "departamento": "Quetzaltenango",
+        "municipio": "Siguila",
+        "direccion": "Quetzaltenango, Siguila",
+        "descripcion": "Los cursos que se encuentran disponibles en Quetzaltenango, Siguila son: Crochet - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4158934,
+          14.5385264
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SUCHITEPÉQUEZ, SAN ANTONIO SUCHITEPÉQUEZ",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "SAN ANTONIO SUCHITEPÉQUEZ",
+        "direccion": "SUCHITEPÉQUEZ, SAN ANTONIO SUCHITEPÉQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, SAN ANTONIO SUCHITEPÉQUEZ son: Mecanografía y paquete de office - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.572307,
+          14.541995
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SUCHITEPÉQUEZ, CUYOTENANGO",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "CUYOTENANGO",
+        "direccion": "SUCHITEPÉQUEZ, CUYOTENANGO",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, CUYOTENANGO son: Mecanografía y paquete de office - ACTIVO, Repostería - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.539474,
+          14.647303
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: SUCHITEPÉQUEZ, Pueblo Nuevo Such.",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "Pueblo Nuevo Such.",
+        "direccion": "SUCHITEPÉQUEZ, Pueblo Nuevo Such.",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, Pueblo Nuevo Such. son: Técnico en decoración de uñas  - FINALIZADO, Cocina Guatemalteca  - ACTIVO, Repostero  - ACTIVO, Corte y Confección  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.539474,
+          14.647303
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: SUCHITEPÉQUEZ, Pueblo Nuevo",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "Pueblo Nuevo",
+        "direccion": "SUCHITEPÉQUEZ, Pueblo Nuevo",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, Pueblo Nuevo son: Envasados de frutas y verduras - ACTIVO, Cocina Guatemalteca  - ACTIVO, Electricidad Domiciliar - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5255679,
+          14.2789327
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SUCHITEPÉQUEZ, San Lorenzo",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "San Lorenzo",
+        "direccion": "SUCHITEPÉQUEZ, San Lorenzo",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, San Lorenzo son: Envasados de frutas y verduras - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4107484,
+          14.6322567
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SUCHITEPÉQUEZ, Santo Tomás La Unión",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "Santo Tomás La Unión",
+        "direccion": "SUCHITEPÉQUEZ, Santo Tomás La Unión",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, Santo Tomás La Unión son: Envasados de frutas y verduras - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4830255,
+          14.4792653
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: SUCHITEPÉQUEZ, Santo Domingo Suchitepéquez",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "Santo Domingo Suchitepéquez",
+        "direccion": "SUCHITEPÉQUEZ, Santo Domingo Suchitepéquez",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, Santo Domingo Suchitepéquez son: Inglés - ACTIVO, Emprendimiento - ACTIVO, Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4613647,
+          14.5810851
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SUCHITEPÉQUEZ, Samayac",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "Samayac",
+        "direccion": "SUCHITEPÉQUEZ, Samayac",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, Samayac son: Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5027259,
+          14.5086308
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SUCHITEPÉQUEZ, San Gabriel",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "San Gabriel",
+        "direccion": "SUCHITEPÉQUEZ, San Gabriel",
+        "descripcion": "Los cursos que se encuentran disponibles en SUCHITEPÉQUEZ, San Gabriel son: Velas aromáticas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6939511,
+          14.592799
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: RETALHULEU, Nuevo San Carlos",
+        "departamento": "RETALHULEU",
+        "municipio": "Nuevo San Carlos",
+        "direccion": "RETALHULEU, Nuevo San Carlos",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, Nuevo San Carlos son: Belleza - ACTIVO, Uñas Acrílicas - ACTIVO, REPOSTERÍA - ACTIVO, ENVASADO DE FRUTAS Y VERDURAS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.911813,
+          14.293651
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: RETALHULEU, Champerico",
+        "departamento": "RETALHULEU",
+        "municipio": "Champerico",
+        "direccion": "RETALHULEU, Champerico",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, Champerico son: Belleza - ACTIVO, REPOSTERÍA - ACTIVO, REPOSTERIA - ACTIVO, ENVASADO DE FRUTAS Y VERDURAS - ACTIVO, ENVASADO DE FRUTAS Y VERDURAS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6780651,
+          14.5359621
+        ]
+      },
+      "properties": {
+        "titulo": "12 cursos en: RETALHULEU, Retalhuleu",
+        "departamento": "RETALHULEU",
+        "municipio": "Retalhuleu",
+        "direccion": "RETALHULEU, Retalhuleu",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, Retalhuleu son: Belleza - ACTIVO, Bebidas y Boquitas - ACTIVO, REPOSTERÍA - ACTIVO, REPOSTERÍA - ACTIVO, REPOSTERÍA - ACTIVO, REPOSTERÍA - ACTIVO, COCINA - ACTIVO, Repostería Básica - ACTIVO, Uñas Acrílicas - ACTIVO, Uñas Acrílicas - ACTIVO, INTRODUCCIÓN A LA SALUD - ACTIVO, Uñas Acrílicas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7272221,
+          14.5954333
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: RETALHULEU, El Asintal",
+        "departamento": "RETALHULEU",
+        "municipio": "El Asintal",
+        "direccion": "RETALHULEU, El Asintal",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, El Asintal son: Belleza - ACTIVO, REPOSTERÍA - ACTIVO, COCINA - ACTIVO, ENVASADO DE FRUTAS Y VERDURAS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6521292,
+          14.5579504
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: RETALHULEU, San Sebastián",
+        "departamento": "RETALHULEU",
+        "municipio": "San Sebastián",
+        "direccion": "RETALHULEU, San Sebastián",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, San Sebastián son: Repostería Básica - ACTIVO, Repostería Básica y Cocina Internacional - ACTIVO, Cocina Internacional - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.594952,
+          14.623599
+        ]
+      },
+      "properties": {
+        "titulo": "9 cursos en: RETALHULEU, San Felipe",
+        "departamento": "RETALHULEU",
+        "municipio": "San Felipe",
+        "direccion": "RETALHULEU, San Felipe",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, San Felipe son: Cocina Basica - ACTIVO, REPOSTERÍA - ACTIVO, REPOSTERÍA II - ACTIVO, Repostería Básica - ACTIVO, Repostería Básica - ACTIVO, Uñas Acrílicas - ACTIVO, EMBUTIDOS - ACTIVO, EMBUTIDOS - ACTIVO, REPOSTERÍA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6341547,
+          14.3794252
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: RETALHULEU, SAN ANDRÉS VILLA SECA",
+        "departamento": "RETALHULEU",
+        "municipio": "SAN ANDRÉS VILLA SECA",
+        "direccion": "RETALHULEU, SAN ANDRÉS VILLA SECA",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, SAN ANDRÉS VILLA SECA son: Uñas Acrílicas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6057451,
+          14.6077356
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: RETALHULEU, SAN MARTÍN ZAPOTITLÁN",
+        "departamento": "RETALHULEU",
+        "municipio": "SAN MARTÍN ZAPOTITLÁN",
+        "direccion": "RETALHULEU, SAN MARTÍN ZAPOTITLÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en RETALHULEU, SAN MARTÍN ZAPOTITLÁN son: REPOSTERÍA - ACTIVO, REPOSTERIA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6854691,
+          15.2498194
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SAN MARCOS , SAN MIGUEL IXTAGUACAN ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN MIGUEL IXTAGUACAN ",
+        "direccion": "SAN MARCOS , SAN MIGUEL IXTAGUACAN ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN MIGUEL IXTAGUACAN  son: BORDADO A MANO  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1084225,
+          15.1324794
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SAN MARCOS , TACANÁ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "TACANÁ",
+        "direccion": "SAN MARCOS , TACANÁ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , TACANÁ son: ELECTRÓNICA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7689367,
+          14.8789984
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SAN MARCOS , SAN CRISTOBAL CUCHO ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN CRISTOBAL CUCHO ",
+        "direccion": "SAN MARCOS , SAN CRISTOBAL CUCHO ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN CRISTOBAL CUCHO  son: CORTE Y CONFECCIÓN - ACTIVO, CORTE Y CONFECCIÓN - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7778544,
+          14.9661218
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SAN MARCOS , SAN PEDRO SACATEPEQUEZ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN PEDRO SACATEPEQUEZ",
+        "direccion": "SAN MARCOS , SAN PEDRO SACATEPEQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN PEDRO SACATEPEQUEZ son: CORTE Y CONFECCIÓN - ACTIVO, Cocina Basica  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7943267,
+          14.9643813
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: SAN MARCOS , SAN MARCOS ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN MARCOS ",
+        "direccion": "SAN MARCOS , SAN MARCOS ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN MARCOS  son: CORTE Y CONFECCIÓN - ACTIVO, Alta Costura - ACTIVO, Cultora de belleza nivel avanzado  - ACTIVO, Pasta Hojaldre - ACTIVO, Reposteria Basica   - FINALIZADO, Reposteria Basica   - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7129363,
+          14.9614649
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: SAN MARCOS , SAN ANTONIO SACATEPEQUEZ",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN ANTONIO SACATEPEQUEZ",
+        "direccion": "SAN MARCOS , SAN ANTONIO SACATEPEQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN ANTONIO SACATEPEQUEZ son: CORTE Y CONFECCIÓN - ACTIVO, BORDADO - ACTIVO, Blancos - ACTIVO, Moños y Flores - ACTIVO, Pasta Hojaldre - ACTIVO, Cultora de Belleza. Nivel Intermedio. - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8371996,
+          14.9248229
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: SAN MARCOS , ESQUIPULAS PALO GORDO",
+        "departamento": "SAN MARCOS ",
+        "municipio": "ESQUIPULAS PALO GORDO",
+        "direccion": "SAN MARCOS , ESQUIPULAS PALO GORDO",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , ESQUIPULAS PALO GORDO son: BORDADO ESPAÑOL - FINALIZADO, PIÑATERIA  - FINALIZADO, BORDADO - ACTIVO, Corte y Confección  - ACTIVO, Cultora de Belleza. Nivel Inicial. - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0711278,
+          14.8401471
+        ]
+      },
+      "properties": {
+        "titulo": "9 cursos en: SAN MARCOS , CATARINA",
+        "departamento": "SAN MARCOS ",
+        "municipio": "CATARINA",
+        "direccion": "SAN MARCOS , CATARINA",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , CATARINA son: PIÑATERIA  - FINALIZADO, GLOBOFLEXIA  - ACTIVO, FLORES  - ACTIVO, Corte y Confección  - ACTIVO, Blancos - ACTIVO, Cultora de Belleza. Nivel Inicial. - ACTIVO, Cultora de Belleza. Nivel Intermedio. - ACTIVO, Reposteria Basica   - ACTIVO, Moños y Flores - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0039116,
+          14.9330496
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: SAN MARCOS , SAN PABLO",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN PABLO",
+        "direccion": "SAN MARCOS , SAN PABLO",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN PABLO son: COCINA - ACTIVO, Cultora de belleza nivel avanzado  - ACTIVO, Pintura en tela  - ACTIVO, Reposteria basica  - ACTIVO, Corte Confeccion I - ACTIVO, cocina - ACTIVO, Reposteria - ACTIVO, Moños y Flores - ACTIVO, Uñas Acrilicas - ACTIVO, Globoflexia - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0929143,
+          14.9106935
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SAN MARCOS , MALACATAN",
+        "departamento": "SAN MARCOS ",
+        "municipio": "MALACATAN",
+        "direccion": "SAN MARCOS , MALACATAN",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , MALACATAN son: Uñas acrilicas   - FINALIZADO, Globoflexia - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9762158,
+          14.9144433
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: SAN MARCOS , EL RODEO",
+        "departamento": "SAN MARCOS ",
+        "municipio": "EL RODEO",
+        "direccion": "SAN MARCOS , EL RODEO",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , EL RODEO son: Corte Confeccion I - ACTIVO, Reposteria - ACTIVO, Postres Frios - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9762158,
+          14.9144433
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: SAN MARCOS , SAN JOSE EL RODEO",
+        "departamento": "SAN MARCOS ",
+        "municipio": "SAN JOSE EL RODEO",
+        "direccion": "SAN MARCOS , SAN JOSE EL RODEO",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , SAN JOSE EL RODEO son: Reposteria Basica   - FINALIZADO, Postres - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7941499,
+          14.7928315
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: SAN MARCOS , EL QUETZAL",
+        "departamento": "SAN MARCOS ",
+        "municipio": "EL QUETZAL",
+        "direccion": "SAN MARCOS , EL QUETZAL",
+        "descripcion": "Los cursos que se encuentran disponibles en SAN MARCOS , EL QUETZAL son: REPOSTERIA BÁSICA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4723295,
+          15.3184301
+        ]
+      },
+      "properties": {
+        "titulo": "11 cursos en: Huehuetenango, Huehuetenango",
+        "departamento": "Huehuetenango",
+        "municipio": "Huehuetenango",
+        "direccion": "Huehuetenango, Huehuetenango",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Huehuetenango son: Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Repostería Intermedia - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4538835,
+          15.212949
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Huehuetenango, Malacatancito",
+        "departamento": "Huehuetenango",
+        "municipio": "Malacatancito",
+        "direccion": "Huehuetenango, Malacatancito",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Malacatancito son: Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO, Corte y Confección - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4577734,
+          15.3550253
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Huehuetenango, Chiantla ",
+        "departamento": "Huehuetenango",
+        "municipio": "Chiantla ",
+        "direccion": "Huehuetenango, Chiantla ",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Chiantla  son: Boquitas y Candy Bar  - FINALIZADO, Ccocina y Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4577734,
+          15.3550253
+        ]
+      },
+      "properties": {
+        "titulo": "11 cursos en: Huehuetenango, Chiantla",
+        "departamento": "Huehuetenango",
+        "municipio": "Chiantla",
+        "direccion": "Huehuetenango, Chiantla",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Chiantla son: Pintura en Tela  - FINALIZADO, Blancos Inicial  - FINALIZADO, Cocina y Reposteria inicial  - ACTIVO, Cocina y Reposteria inicial  - ACTIVO, Cocina y Reposteria intermedia  - ACTIVO, Repostería y Decoración de Pasteles  - ACTIVO, Boquitas y Candy Bar  - ACTIVO, Cocina y Reposteria abanzada - ACTIVO, Corte y Confección Intermedia  - ACTIVO, Tejido en Croshet  - ACTIVO, Ccocina y Repostería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.31336,
+          15.342307
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Huehuetenango, Aguacatan",
+        "departamento": "Huehuetenango",
+        "municipio": "Aguacatan",
+        "direccion": "Huehuetenango, Aguacatan",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Aguacatan son: Bordado a crochet - FINALIZADO, Elaboración de blancos - FINALIZADO, Elaboración de blancos - FINALIZADO, Cocina y Repostería - FINALIZADO, Elaboración de blancos - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4582368,
+          15.7329506
+        ]
+      },
+      "properties": {
+        "titulo": "9 cursos en: Huehuetenango, Santa Eulalia ",
+        "departamento": "Huehuetenango",
+        "municipio": "Santa Eulalia ",
+        "direccion": "Huehuetenango, Santa Eulalia ",
+        "descripcion": "Los cursos que se encuentran disponibles en Huehuetenango, Santa Eulalia  son: Bordado de güipil y prendas típicas inicial  - ACTIVO, Corte y Confección de Prendas Típicas Inicial  - ACTIVO, Bordado de güipil y prendas típicas intermedio - ACTIVO, Corte y Confección de Prendas Típicas Inicial  - ACTIVO, Bordado de güipil y prendas típicas inicial - ACTIVO, Corte y Confección de Prendas Típicas Inicial  - ACTIVO, Corte y Confección de Prendas Típicas Intermedio - ACTIVO, Bordado de güipil y prendas típicas intermedio - ACTIVO, Corte y Confección de Prendas Típicas inicial  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1019477,
+          14.898012
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quiché , Chichicastenango",
+        "departamento": "Quiché ",
+        "municipio": "Chichicastenango",
+        "direccion": "Quiché , Chichicastenango",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Chichicastenango son: Reposteria - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1809215,
+          15.6049862
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: Quiché , Nebaj ",
+        "departamento": "Quiché ",
+        "municipio": "Nebaj ",
+        "direccion": "Quiché , Nebaj ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Nebaj  son: Moticación personal  - ACTIVO, Compuitación - ACTIVO, Bordado - FINALIZADO, Panaderia  - ACTIVO, Tejido - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8703939,
+          15.3469675
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: Quiché , Uspantán ",
+        "departamento": "Quiché ",
+        "municipio": "Uspantán ",
+        "direccion": "Quiché , Uspantán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Uspantán  son: Motivación presonal  - ACTIVO, Reposteria - FINALIZADO, Tecnologia - FINALIZADO, Emprendimiento Empresarial - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1809215,
+          15.6049862
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quiché , Nebaj",
+        "departamento": "Quiché ",
+        "municipio": "Nebaj",
+        "direccion": "Quiché , Nebaj",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Nebaj son: Bordado - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.134599,
+          15.264959
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Quiché , Sacapulas",
+        "departamento": "Quiché ",
+        "municipio": "Sacapulas",
+        "direccion": "Quiché , Sacapulas",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Sacapulas son: Motivación presonal  - ACTIVO, Computación  - ACTIVO, Bordado - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1870608,
+          15.4060778
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quiché , Acul",
+        "departamento": "Quiché ",
+        "municipio": "Acul",
+        "direccion": "Quiché , Acul",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Acul son: Bordado - ACTIVO, Reposteria  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.757083,
+          15.3916705
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: Quiché, Chicamán ",
+        "departamento": "Quiché",
+        "municipio": "Chicamán ",
+        "direccion": "Quiché, Chicamán ",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché, Chicamán  son: Reposteria Inicial  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1496179,
+          15.0295098
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: Quiché , Santa Cruz del Quiché",
+        "departamento": "Quiché ",
+        "municipio": "Santa Cruz del Quiché",
+        "direccion": "Quiché , Santa Cruz del Quiché",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché , Santa Cruz del Quiché son: Confección de blusas Quichelense - ACTIVO, Manualidades - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9036461,
+          15.880398
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: Quiché, Ixcán",
+        "departamento": "Quiché",
+        "municipio": "Ixcán",
+        "direccion": "Quiché, Ixcán",
+        "descripcion": "Los cursos que se encuentran disponibles en Quiché, Ixcán son: Flores eternas - FINALIZADO, Manualidades - FINALIZADO, Antojitos dulces y salados - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9173338,
+          16.9227699
+        ]
+      },
+      "properties": {
+        "titulo": "12 cursos en: PETÉN, San Benito",
+        "departamento": "PETÉN",
+        "municipio": "San Benito",
+        "direccion": "PETÉN, San Benito",
+        "descripcion": "Los cursos que se encuentran disponibles en PETÉN, San Benito son: Manicure, Pedicure y Diseño de uñas a mano alzada - FINALIZADO, Cortes Básicos de Cabello - FINALIZADO, Maquillaje Básico - FINALIZADO, Maquillaje Profesional fase 1 - FINALIZADO, Canastas Artesanales Nivel I - FINALIZADO, Canastas Artesanales Nivel II - FINALIZADO, Canastas Artesanales Nivel I - FINALIZADO, Canastas Artesnales Nivel III - FINALIZADO, Canastas Artesanales Nivel I - FINALIZADO, Decoración de pasteles  - FINALIZADO, Coberturas laminadas  - FINALIZADO, Postres  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8235777,
+          16.8083382
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: PETÉN, Santa Ana",
+        "departamento": "PETÉN",
+        "municipio": "Santa Ana",
+        "direccion": "PETÉN, Santa Ana",
+        "descripcion": "Los cursos que se encuentran disponibles en PETÉN, Santa Ana son: Masas básicas  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4161216,
+          16.5117548
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: PETÉN, Dolores",
+        "departamento": "PETÉN",
+        "municipio": "Dolores",
+        "direccion": "PETÉN, Dolores",
+        "descripcion": "Los cursos que se encuentran disponibles en PETÉN, Dolores son: Masas básicas  - FINALIZADO, Masas básicas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4830554,
+          14.7422136
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA NORTE, Chinautla",
+        "departamento": "GUATEMALA NORTE",
+        "municipio": "Chinautla",
+        "direccion": "GUATEMALA NORTE, Chinautla",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA NORTE, Chinautla son: Pintura en Tela - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4629234,
+          14.8605006
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA NORTE, Chuarrancho",
+        "departamento": "GUATEMALA NORTE",
+        "municipio": "Chuarrancho",
+        "direccion": "GUATEMALA NORTE, Chuarrancho",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA NORTE, Chuarrancho son: Porcelana Fría - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4358402,
+          14.7639349
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: GUATEMALA NORTE, San Pedro Ayampuc ",
+        "departamento": "GUATEMALA NORTE",
+        "municipio": "San Pedro Ayampuc ",
+        "direccion": "GUATEMALA NORTE, San Pedro Ayampuc ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA NORTE, San Pedro Ayampuc  son: Manualidades  - ACTIVO, Computación báscia  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5132836,
+          14.6416142
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: GUATEMALA NORTE, Ciudad de Guatemala",
+        "departamento": "GUATEMALA NORTE",
+        "municipio": "Ciudad de Guatemala",
+        "direccion": "GUATEMALA NORTE, Ciudad de Guatemala",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA NORTE, Ciudad de Guatemala son: Paquete de Microsoft Office - ACTIVO, Ofimatica Aplicada - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5963325,
+          14.5308826
+        ]
+      },
+      "properties": {
+        "titulo": "16 cursos en: GUATEMALA SUR, VILLA NUEVA",
+        "departamento": "GUATEMALA SUR",
+        "municipio": "VILLA NUEVA",
+        "direccion": "GUATEMALA SUR, VILLA NUEVA",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA SUR, VILLA NUEVA son: INGLÉS INICIAL 1 - FINALIZADO, INGLÉS INICIAL 2 - FINALIZADO, INGLÉS INICIAL 3 - FINALIZADO, REPOSTERIA BÁSICA - ACTIVO, REPOSTERIA INTERMEDIA  - ACTIVO, COSMETICA ORGANICA - FINALIZADO, MANUALIDADES AVANZADO - ACTIVO, MANUALIDADES INICIAL - FINALIZADO, GALLETERIA - FINALIZADO, BELLEZA - ACTIVO, CORTE Y CONFECCION INICIAL - ACTIVO, CORTE Y CONFECCION INTERMEDIO - ACTIVO, MANUALIDADES VARIAS  - ACTIVO, REPOSTERÍA - ACTIVO, PASTELES DE GELATINA  - FINALIZADO, BORDADO ESPAÑOL - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5560333,
+          14.4976914
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: GUATEMALA SUR, SAN MIGUEL PETAPA",
+        "departamento": "GUATEMALA SUR",
+        "municipio": "SAN MIGUEL PETAPA",
+        "direccion": "GUATEMALA SUR, SAN MIGUEL PETAPA",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA SUR, SAN MIGUEL PETAPA son: BORDADO ESPAÑOL - FINALIZADO, BORDADO EN LISTÓN - FINALIZADO, BISUTERIA CON RESINA - FINALIZADO, PASTELES DE GELATINA  - FINALIZADO, PORCELANA FRIA  - FINALIZADO, ENVASADOS DULCE Y SALADO - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6195248,
+          14.4792381
+        ]
+      },
+      "properties": {
+        "titulo": "31 cursos en: GUATEMALA SUR, AMATITLÁN",
+        "departamento": "GUATEMALA SUR",
+        "municipio": "AMATITLÁN",
+        "direccion": "GUATEMALA SUR, AMATITLÁN",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA SUR, AMATITLÁN son: BELLEZA - ACTIVO, CULTOR (A) DE BELLEZA - ACTIVO, ESTILISTA PROFESIONAL - ACTIVO, LIFTING DE PESTAÑAS - FINALIZADO, MAQUILLAJE - FINALIZADO, UÑAS ACRILICAS AVANZADO - ACTIVO, UÑAS ACRILICAS BASICO - ACTIVO, REPOSTERIA BÁSICA - ACTIVO, REPOSTERIA AVANZADA - ACTIVO, CHEF REPOSTERO (A) - ACTIVO, COCINA - ACTIVO, COCINA INTERNACIONAL  - FINALIZADO, CHOCOLATERIA  - FINALIZADO, ENVASADOS  - FINALIZADO, ARREGLOS FLORALES  - FINALIZADO, CHOCOLATERIA  - FINALIZADO, EMPRENDIMIENTO  - FINALIZADO, PASTELES FRIOS  - FINALIZADO, REPOSTERIA BASICA  - FINALIZADO, COCINA NACIONAL  - FINALIZADO, ARTE EN AZUCAR  - FINALIZADO, TRENZAS Y EMPANADAS - FINALIZADO, EMBUTIDOS ARTESANALES - FINALIZADO, REPOSTERIA BÁSICA - ACTIVO, ELABORACION DE VELAS - FINALIZADO, DECOUPAGE - FINALIZADO, MANUALIDADES VARIAS - ACTIVO, TAQUIZAS Y AGUAS FRESCAS - FINALIZADO, ARREGLOS CON GLOBOS - FINALIZADO, BOQUITAS Y BEBIDAS - ACTIVO, MANUALIDADES VARIAS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5505174,
+          14.5445021
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA SUR, ZONA 21",
+        "departamento": "GUATEMALA SUR",
+        "municipio": "ZONA 21",
+        "direccion": "GUATEMALA SUR, ZONA 21",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA SUR, ZONA 21 son: VELAS AROMATICAS - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.510237,
+          14.6368919
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA SUR, ZONA 22",
+        "departamento": "GUATEMALA SUR",
+        "municipio": "ZONA 22",
+        "direccion": "GUATEMALA SUR, ZONA 22",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA SUR, ZONA 22 son: MANUALIDADES VARIAS - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6423391,
+          14.6949751
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA ORIENTE, SAN PEDRO SACATEPÉQUEZ",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN PEDRO SACATEPÉQUEZ",
+        "direccion": "GUATEMALA ORIENTE, SAN PEDRO SACATEPÉQUEZ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN PEDRO SACATEPÉQUEZ son: BORDADO A MANO - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.64328432,
+          14.72081652
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SACSUY",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN JUAN SACATEPÉQUEZ/SACSUY",
+        "direccion": "GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SACSUY",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SACSUY son: CESTERÍA - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.64328432,
+          14.72081652
+        ]
+      },
+      "properties": {
+        "titulo": "3 cursos en: GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/CENTRO",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN JUAN SACATEPÉQUEZ/CENTRO",
+        "direccion": "GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/CENTRO",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/CENTRO son: BISUTERÍA - FINALIZADO, GLOBOFLEXIA - FINALIZADO, BORDADO A MANO - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6385956,
+          14.780379
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/MONTUFAR",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN JUAN SACATEPÉQUEZ/MONTUFAR",
+        "direccion": "GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/MONTUFAR",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/MONTUFAR son: ARREGLOS FLORALES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.64328432,
+          14.72081652
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/ CENTRO",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN JUAN SACATEPÉQUEZ/ CENTRO",
+        "direccion": "GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/ CENTRO",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/ CENTRO son: ARREGLOS FLORALES - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.64328432,
+          14.72081652
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SEGUNDA BRIGADA DE PM.",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN JUAN SACATEPÉQUEZ/SEGUNDA BRIGADA DE PM.",
+        "direccion": "GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SEGUNDA BRIGADA DE PM.",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN JUAN SACATEPÉQUEZ/SEGUNDA BRIGADA DE PM. son: PANADERÍA - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5413343,
+          14.7979606
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: GUATEMALA ORIENTE, SAN RAYMUNDO",
+        "departamento": "GUATEMALA ORIENTE",
+        "municipio": "SAN RAYMUNDO",
+        "direccion": "GUATEMALA ORIENTE, SAN RAYMUNDO",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA ORIENTE, SAN RAYMUNDO son: ENVASADO DE FRUTAS Y VERDURAS - FINALIZADO, DECORACIÓN CON GLOBOS - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3492868,
+          14.5464898
+        ]
+      },
+      "properties": {
+        "titulo": "20 cursos en: GUATEMALA OCCIDENTE, San José Pinula ",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "San José Pinula ",
+        "direccion": "GUATEMALA OCCIDENTE, San José Pinula ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, San José Pinula  son: Figuras de Pasta de Goma  - FINALIZADO, Envasados de frutas y verduras  - FINALIZADO, Cupcakes  - ACTIVO, Repostería Básica - ACTIVO, Panadería Comercial  - ACTIVO, Panadería Comercial  - ACTIVO, Envasados de frutas y verduras - ACTIVO, Cupcakes - ACTIVO, Repostería Básica - FINALIZADO, Figuras de Pasta de Goma  - FINALIZADO, Elaboración de dulces típicos - ACTIVO, Cupcakes  - ACTIVO, Panadería Navideña - ACTIVO, Pizzas y Trenzas  - ACTIVO, Masas Quebradas - ACTIVO, Masas Quebradas - ACTIVO, Pizzas y Trenzas  - ACTIVO, Elaboración de dulces típicos - ACTIVO, Cupcakes  - ACTIVO, Panadería Navideña - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.533333,
+          14.483333
+        ]
+      },
+      "properties": {
+        "titulo": "28 cursos en: GUATEMALA OCCIDENTE, Villa Canales",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Villa Canales",
+        "direccion": "GUATEMALA OCCIDENTE, Villa Canales",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Villa Canales son: Pasteles Fríos - FINALIZADO, Cocina Comercial - FINALIZADO, Pasteles Fríos - FINALIZADO, Cocina Italiana - FINALIZADO, Cesteria - FINALIZADO, Resina  - FINALIZADO, Porcelana Rusa - FINALIZADO, Esteticismo Manos y Pies  - FINALIZADO, Técnicas de Maquillaje - FINALIZADO, Reposteria  - FINALIZADO, Cocina - FINALIZADO, Pie dulces y salados - FINALIZADO, Pie dulces y salados - FINALIZADO, Bisutería - FINALIZADO, Cuadros de Filigrana - FINALIZADO, Filigrana en 3D - ACTIVO, Pasteles secos - ACTIVO, Arreglos Florales  - ACTIVO, Pasteles secos - FINALIZADO, Pastelitos Dulces y Salados  - FINALIZADO, Técnicas de Maquillaje - FINALIZADO, Esteticismo Manos y Pies  - FINALIZADO, Cestería - FINALIZADO, Cestería - ACTIVO, Resina - FINALIZADO, Velas - ACTIVO, Resina - FINALIZADO, Resina - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722627,
+          14.5588408
+        ]
+      },
+      "properties": {
+        "titulo": "22 cursos en: GUATEMALA OCCIDENTE, Santa Catarina Pinula",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Santa Catarina Pinula",
+        "direccion": "GUATEMALA OCCIDENTE, Santa Catarina Pinula",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Santa Catarina Pinula son: Cocina Básica - FINALIZADO, Arreglos Florales - FINALIZADO, Repostería Avanzada - FINALIZADO, Repostería Avanzada - FINALIZADO, Cestería - ACTIVO, Macramé - ACTIVO, Resina  - ACTIVO, Cestería - ACTIVO, Macramé - ACTIVO, Cestería - FINALIZADO, Repostería Inicial - FINALIZADO, Repostería Intermedia - FINALIZADO, Cestería - FINALIZADO, Cestería - ACTIVO, Macramé - ACTIVO, Resina - ACTIVO, Cestería - ACTIVO, Macramé - ACTIVO, Cestería - ACTIVO, Repostería Inicial - ACTIVO, Repostería Intermedia - ACTIVO, Cestería - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5137158,
+          14.5835631
+        ]
+      },
+      "properties": {
+        "titulo": "4 cursos en: GUATEMALA OCCIDENTE, Zona 14",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Zona 14",
+        "direccion": "GUATEMALA OCCIDENTE, Zona 14",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Zona 14 son: Velas    - FINALIZADO, Resina  - FINALIZADO, Velas - ACTIVO, Resina - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4388234,
+          14.4621012
+        ]
+      },
+      "properties": {
+        "titulo": "10 cursos en: GUATEMALA OCCIDENTE, Fraijanes",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Fraijanes",
+        "direccion": "GUATEMALA OCCIDENTE, Fraijanes",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Fraijanes son: Elaboración de velas aromaticas - FINALIZADO, Pintura sobre tela - FINALIZADO, Cestería - FINALIZADO, Elaboración de velas aromaticas - FINALIZADO, Cestería - FINALIZADO, Amigurumis - ACTIVO, Velas aromaticas - ACTIVO, Cestería - ACTIVO, Jabones artesanales - ACTIVO, Velas aromaticas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3492868,
+          14.5464898
+        ]
+      },
+      "properties": {
+        "titulo": "37 cursos en: GUATEMALA OCCIDENTE, San José Pinula",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "San José Pinula",
+        "direccion": "GUATEMALA OCCIDENTE, San José Pinula",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, San José Pinula son: Técnicas de Uñas Acrílicas Básica - FINALIZADO, Esteticismo Manos y Pies  - FINALIZADO, Técnicas de Maquillaje - ACTIVO, Cultora de   Belleza - ACTIVO, Cultora de   Belleza - ACTIVO, Técnicas de Uñas Acrílicas Básica - ACTIVO, Esteticismo Manos y Pies  - ACTIVO, Técnicas de Maquillaje - ACTIVO, Cocina Típica Guatemalteca - FINALIZADO, Bartender Intermedio - FINALIZADO, Bordado con Perla y Lentejuela - ACTIVO, Bordado de blusas - ACTIVO, Bordado con Perla y Lentejuela - ACTIVO, Crochet para principiantes - ACTIVO, Decoración de botellas - ACTIVO, Elaboración de Tartaletas - ACTIVO, Postres Variados - ACTIVO, Arreglos Florales - ACTIVO, Centros de Mesa - ACTIVO, Elaboración de Boquitas - FINALIZADO, Bartender Inicial - FINALIZADO, Cocina Saludable - ACTIVO, Elaboración de Boquitas - ACTIVO, Bordado en Cruz y Español - ACTIVO, Manualidades Navideñas - ACTIVO, Bartender Inicial - ACTIVO, Postres Variados - ACTIVO, Pintura sobre tela - ACTIVO, Arreglos Navideños - ACTIVO, Bartender Intermedio - ACTIVO, Técnica de Uñas Esculturales - ACTIVO, Técnica de Uñas Esculturales - ACTIVO, Técnicas de Maquillaje - ACTIVO, Esteticismo Manos y Pies  - ACTIVO, Colorimetria Básicas  - ACTIVO, Esteticismo Manos y Pies  - ACTIVO, Técnicas de Maquillaje II - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5132836,
+          14.6416142
+        ]
+      },
+      "properties": {
+        "titulo": "7 cursos en: GUATEMALA OCCIDENTE, Ciudad Capital",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Ciudad Capital",
+        "direccion": "GUATEMALA OCCIDENTE, Ciudad Capital",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Ciudad Capital son: Repujado - FINALIZADO, Jabones de Glicerina  - FINALIZADO, Bordado a Mano  - FINALIZADO, Velas Estilo Postre  - FINALIZADO, Gorros Tejidos con Telar  - FINALIZADO, Arreglos con Globos  - FINALIZADO, Bolsas de Manta con Técnicas de Pintura  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5132836,
+          14.6416142
+        ]
+      },
+      "properties": {
+        "titulo": "11 cursos en: GUATEMALA OCCIDENTE, Zona 5",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Zona 5",
+        "direccion": "GUATEMALA OCCIDENTE, Zona 5",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Zona 5 son: Arreglo de globos  - FINALIZADO, Arreglo de globos  - FINALIZADO, Decoración de Pasteles - FINALIZADO, Paletas de Cake Pops y Angelitos - FINALIZADO, Galletas Decoradas - ACTIVO, Decoración de Pasteles - ACTIVO, Accesorios de Crochet - ACTIVO, Tarjetas Decoradas - ACTIVO, Arreglos Florales - FINALIZADO, Flores de Fondant y Arroz - ACTIVO, Bisuteria Intermedia  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722627,
+          14.5588408
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: GUATEMALA OCCIDENTE, Santa  Catarina Pinula",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Santa  Catarina Pinula",
+        "direccion": "GUATEMALA OCCIDENTE, Santa  Catarina Pinula",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Santa  Catarina Pinula son: Reposteria Basica  - FINALIZADO, Reposteria Basica  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4720005,
+          14.6105332
+        ]
+      },
+      "properties": {
+        "titulo": "2 cursos en: GUATEMALA OCCIDENTE, Zona 16",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Zona 16",
+        "direccion": "GUATEMALA OCCIDENTE, Zona 16",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Zona 16 son: Gelatinas Artisticas  - FINALIZADO, Gelatinas Artisticas  - FINALIZADO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.533333,
+          14.483333
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA OCCIDENTE, Villa Canales ",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Villa Canales ",
+        "direccion": "GUATEMALA OCCIDENTE, Villa Canales ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Villa Canales  son: Bisuteria Intermedia  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5132836,
+          14.6416142
+        ]
+      },
+      "properties": {
+        "titulo": "6 cursos en: GUATEMALA OCCIDENTE, Zona 5 ",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Zona 5 ",
+        "direccion": "GUATEMALA OCCIDENTE, Zona 5 ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Zona 5  son: Crochet Navideño - ACTIVO, Crochet Navideño - ACTIVO, Bordado Navideño  - ACTIVO, Velas Navideñas  - ACTIVO, Flores Eternas  - ACTIVO, Tazas Decoradas con Perlas  - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40908628,
+          14.54484977
+        ]
+      },
+      "properties": {
+        "titulo": "1 cursos en: GUATEMALA OCCIDENTE, San JoséPinula",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "San JoséPinula",
+        "direccion": "GUATEMALA OCCIDENTE, San JoséPinula",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, San JoséPinula son: Elaboración de Galletas - ACTIVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722627,
+          14.5588408
+        ]
+      },
+      "properties": {
+        "titulo": "5 cursos en: GUATEMALA OCCIDENTE, Santa Catarina Pinula ",
+        "departamento": "GUATEMALA OCCIDENTE",
+        "municipio": "Santa Catarina Pinula ",
+        "direccion": "GUATEMALA OCCIDENTE, Santa Catarina Pinula ",
+        "descripcion": "Los cursos que se encuentran disponibles en GUATEMALA OCCIDENTE, Santa Catarina Pinula  son: Aperitivos Dulces y Salados - ACTIVO, Arreglos Florales  - ACTIVO, Repostería Avanzada - ACTIVO, Repostería Básica - ACTIVO, Repostería Básica - ACTIVO"
+      }
+    }
+  ]
+}
